@@ -2,12 +2,7 @@
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Athlete | Problem Solver</h3>
 
 ---
-
-## 🎥 Samurai Showcase
-
-## 🎥 Samurai Showcase
-
-[![Video Thumbnail](https://i.postimg.cc/VNkQrK85/222383.gif)](https://github.com/user-attachments/assets/64614266-3195-4b3d-856a-8e38782f65fd)
+![Image](https://github.com/user-attachments/assets/b7ffa1c2-99c8-45c9-8eae-5bcbf5eeb518)
 
 
 
