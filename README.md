@@ -10,9 +10,7 @@
 
 # 🧑‍💻 About Me
 
-I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**.  
-I enjoy creating **full-stack web projects**, solving complex problems, and consistently expanding my technical expertise.  
-With the focus and resilience gained from sports—and a deep passion for development—I strive to contribute meaningfully to every team and project I take part in.
+I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**. I enjoy creating **full-stack web projects**, solving complex problems, and consistently expanding my technical expertise. With the focus and resilience gained from sports and a deep passion for development. I strive to contribute meaningfully to every team and project I take part in.
 
 ---
 
