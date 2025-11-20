@@ -1,4 +1,14 @@
+<!-- ⭐ SAMURAI ANIMATED HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=FF3B3B&center=true&vCenter=true&width=800&lines=⚔️+Shiva+Sanjay;+The+Silent+Samurai+of+Code;MERN+Warrior+|+Frontend+Ronin+|+Backend+Ninja" />
+</p>
+
+<!-- Falling Sakura Petals -->
+<img src="https://raw.githubusercontent.com/roshanlam/roshanlam/master/sakura.gif" width="100%" />
+
+<!-- Your Background Container -->
 <div style="background-image: url('222383.gif'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; min-height: 100vh; padding: 40px; color: #ffffff; text-shadow: 0 0 10px rgba(0,0,0,0.8); border-radius: 12px;">
+
 
 <h1 align="center">👋 Hi, I'm <strong>Shiva Sanjay</strong></h1>
 
@@ -7,6 +17,9 @@
 </p>
 
 ---
+
+<!-- Samurai Divider -->
+<p align="center"><img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/docs/imgs/capsule_red_samurai.svg" /></p>
 
 # 🧑‍💻 About Me
 
@@ -46,6 +59,11 @@ I am a motivated and disciplined developer with strong leadership and team-build
 
 ---
 
+<!-- Animated Samurai Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 # 📌 Highlighted Projects
 
 ### 🔥 **ARISE Fitness**
@@ -76,7 +94,24 @@ Helped build explanations + study material for **Testing of Hypothesis**.
 
 # 🔥 Contribution Streak
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shivasanjay2007&theme=radical" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shivasanjay2007&theme=tokyonight" alt="GitHub Streak" /></a>
+
+---
+
+# 🎮 Mini Samurai Game (ASCII)
+
+    🗡 SAMURAI TRAINING 🗡
+    ---------------------
+    You are the Ronin of MERN.
+    Defeat bugs to gain experience!
+
+    Bug Appears! ⚠️
+    Choose Your Attack:
+    1. 🔪 Debug Slash
+    2. 🧠 Console.log Insight
+    3. ⚔️ StackOverflow Strike
+
+    > Your Journey Continues...
 
 ---
 
@@ -84,8 +119,11 @@ Helped build explanations + study material for **Testing of Hypothesis**.
 
 <p align="center">
 <a href="#"><img height="32" src="https://skillicons.dev/icons?i=github" /></a>
-<a href="#"><img height="32" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="#"><img height="32" src="httpsales" /></a>
 <a href="#"><img height="32" src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
+
+<!-- Samurai Wave Footer -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
 
 </div>
