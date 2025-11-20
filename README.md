@@ -2,8 +2,8 @@
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Athlete | Problem Solver</h3>
 
 ---
-![Image](https://github.com/user-attachments/assets/b7ffa1c2-99c8-45c9-8eae-5bcbf5eeb518)
 
+<img src="c:\Users\sanju\Downloads\Pi7_Gif (1).gif" alt="Animation" width="300">
 
 
 ---
