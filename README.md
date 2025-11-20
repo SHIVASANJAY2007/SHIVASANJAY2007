@@ -1,51 +1,36 @@
-<!-- Background Section -->
-<div style="background-image: url('222383.gif'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; min-height: 100vh; padding: 40px; color: #ffffff; text-shadow: 0 0 10px rgba(0,0,0,0.8); border-radius: 10px;">
+<div style="background-image: url('222383.gif'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; min-height: 100vh; padding: 40px; color: #ffffff; text-shadow: 0 0 10px rgba(0,0,0,0.8); border-radius: 12px;">
 
-<h1 align="center">👋 Hey! I'm <strong>Shiva Sanjay</strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>Shiva Sanjay</strong></h1>
 
 <p align="center">
-  <em>Full-Stack Developer • MERN Stack • UI/UX Lover • Fitness Tech Builder</em>
+  <em>Full-Stack Developer | Problem Solver | Tech Enthusiast</em>
 </p>
 
 ---
 
-# 🚀 About Me
+# 🧑‍💻 About Me
 
-I'm a motivated full-stack developer who loves building clean, functional, and impactful web applications.  
-I enjoy **teamwork, leadership**, and solving real-world problems through code.  
-
-My discipline comes from sports like **Kho-Kho**, and my creativity comes from experimenting with projects every week.
-
-### ✨ Personal Traits
-- ✔ Balanced & sharp-minded  
-- ✔ Naturally funny + situationally funny  
-- ✔ Clumsy sometimes but very dedicated  
-- ✔ Loyal to people who support and respect his work  
-- ✔ Works silently, improves consistently  
-- ✔ Fails & retries — but never gives up  
+I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**.  
+I enjoy creating **full-stack web projects**, solving complex problems, and consistently expanding my technical expertise.  
+With the focus and resilience gained from sports—and a deep passion for development—I strive to contribute meaningfully to every team and project I take part in.
 
 ---
 
-# 🌐 What I Build
-- Full MERN Stack Web Apps  
-- Fitness-based applications  
-- MongoDB connected tools & forms  
-- Responsive UIs with Tailwind  
-- Static websites & clone pages (Instagram clone, layouts, templates)  
-- College mini projects (CampusKART, ARISE Fitness)  
-- Web-based mini-games & UI components
+# 🚀 What I Do
+- Build **full-stack MERN applications**
+- Create **clean, responsive UI/UX**
+- Develop **MongoDB-connected tools & forms**
+- Deploy websites using **GitHub Pages**
+- Work on **fitness tech**, utilities, dashboards, and clones
+- Solve practical problems with simple, effective code
 
 ---
 
-# 🧠 Skills & Technologies
+# 🛠️ Tech Stack
 
 ### **Frontend**
-- HTML  
-- CSS  
-- JavaScript  
-- React.js  
-- Tailwind CSS  
-- Responsive Web Design  
+- HTML, CSS, JavaScript  
+- React.js, Tailwind CSS  
 
 ### **Backend**
 - Node.js  
@@ -60,62 +45,46 @@ My discipline comes from sports like **Kho-Kho**, and my creativity comes from e
 - Git & GitHub  
 - VS Code  
 - Postman  
-- GitHub Pages Deployment  
-
-### **Other Abilities**
-- UI designing (clean + centered layouts)  
-- Creating login/signup systems (full backend + MongoDB)  
-- Storing form/calculator inputs into MongoDB  
-- Debugging Git issues and managing branches  
-- Writing professional “About Me” descriptions  
-- Creating HTML layouts on request  
 
 ---
 
-# 📂 Highlighted Projects
+# 📌 Highlighted Projects
 
 ### 🔥 **ARISE Fitness**
-A fitness website where user data (weight, height, phone, name, etc.) is stored directly into MongoDB.
+A fitness platform where user input (weight, height, phone, name, etc.) is stored directly in MongoDB.
 
 ### 🛒 **CampusKART**
-An e-commerce style mini-project using React + Tailwind + Express + MongoDB.
+Mini e-commerce project built using React + Tailwind + Express + MongoDB.
 
-### 🎨 **Static UI Projects**
+### 🎨 **UI/Static Projects**
 - Instagram Profile Clone  
-- Centered box layouts  
-- Sticky background sections  
-- Clean product detail pages  
+- Centered 6-box layout  
+- Sticky background pages  
+- Product detail pages  
 
-### 🧪 **Maths II — Unit IV: Testing of Hypothesis**
-Worked on explanations + exam preparations + problem solving.
-
----
-
-# ⚙️ My Setup
-- 💻 **Intel Core i5**
-- 🎮 **NVIDIA GeForce 940MX (2GB VRAM)**
-- 🖥 **Windows 10 – 64-bit**
-- 💾 **8GB RAM**
-- 📦 **45GB Free Disk**
-
-(Perfect for MERN development, VS Code, MongoDB, Git, etc.)
+### 📘 **Maths II – Unit IV**
+Helped build explanations + study material for **Testing of Hypothesis**.
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🏆 Streak Stats
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shivasanjay2007&theme=rising-sun" alt="GitHub Streak" /></a>
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SHIVASANJAY2007&theme=tokyonight" />
+</p>
+
 ---
 
-# 📬 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 <a href="#"><img height="32" src="https://skillicons.dev/icons?i=github" /></a>
