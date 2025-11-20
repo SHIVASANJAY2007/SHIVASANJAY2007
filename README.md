@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://cdn.pixabay.com/animation/2022/08/01/05/26/05-26-53-275_512.gif" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Shiva Sanjay</h1>
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Athlete | Problem Solver</h3>
