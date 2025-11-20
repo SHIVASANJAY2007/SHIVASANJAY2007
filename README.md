@@ -5,12 +5,10 @@
 
 ## 🎥 Samurai Showcase
 
-<div align="center">
-  <video autoplay loop muted playsinline width="100%" style="border-radius: 12px;">
-    <source src="zenitsu.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+## 🎥 Samurai Showcase
+
+[![Video Thumbnail](https://i.postimg.cc/VNkQrK85/222383.gif)](https://github.com/user-attachments/assets/64614266-3195-4b3d-856a-8e38782f65fd)
+
 
 
 ---
