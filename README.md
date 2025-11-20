@@ -8,6 +8,10 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" alt="Banner">
+
+---
+
 ## 🌟 **About Me**
 ✨ I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**.  
 💻 I enjoy creating **full-stack web projects**, solving complex problems, and continuously expanding my technical expertise.  
@@ -19,15 +23,10 @@
 ### **Frontend**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
 </p>
 
