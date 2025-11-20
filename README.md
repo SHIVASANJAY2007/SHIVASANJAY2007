@@ -1,17 +1,10 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Shiva Sanjay</h1>
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Athlete | Problem Solver</h3>
 
 ---
 
-<div align="center">
-  <video autoplay loop muted playsinline width="100%" style="border-radius: 12px;">
-    <source src="179996-863378242.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+<img src="https://i.postimg.cc/VNkQrK85/222383.gif" alt="Banner">
+
 ---
 ## 🌟 **About Me**
 ✨ I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**.  
