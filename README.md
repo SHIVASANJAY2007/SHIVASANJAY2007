@@ -6,8 +6,12 @@
 
 ---
 
-<img src="https://i.postimg.cc/VNkQrK85/222383.gif" alt="Banner">
-
+<div align="center">
+  <video autoplay loop muted playsinline width="100%" style="border-radius: 12px;">
+    <source src="YOUR_VIDEO_URL.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 ---
 ## 🌟 **About Me**
 ✨ I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**.  
