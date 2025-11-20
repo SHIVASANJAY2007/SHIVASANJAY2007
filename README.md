@@ -1,9 +1,3 @@
-<div style="
-  background: url('https://i.postimg.cc/VNkQrK85/222383.gif') center/cover no-repeat;
-  padding: 40px;
-  border-radius: 12px;
-  color: #fff;
-  text-shadow: 0 0 8px #000;">
 
 <p align="center">
   <img src="https://cdn.pixabay.com/animation/2022/08/01/05/26/05-26-53-275_512.gif" width="100%" />
@@ -125,4 +119,3 @@ E-commerce mini project using MERN stack.
 <p align="center">
   <img src="https://cdn.pixabay.com/animation/2023/03/21/07/20/07-20-18-606_512.gif" width="150"/>
 </p>
-</div>
