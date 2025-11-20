@@ -1,115 +1,117 @@
-<!-- ⚔️ Samurai Animated Typing Banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=32&duration=3500&color=F54242&center=true&vCenter=true&width=800&lines=⚔️+Shiva+Sanjay;+Silent+Samurai+of+Code;Frontend+Ronin+|+Backend+Ninja;MERN+Warrior" />
+  <img src="https://cdn.pixabay.com/animation/2022/08/01/05/26/05-26-53-275_512.gif" width="100%" />
 </p>
 
-<!-- 🌸 Falling Sakura (Non-Github source) -->
-<img src="https://i.imgur.com/3XjQZ4v.gif" width="100%" />
-
-<!-- 🔥 Main Background Container -->
-<div style="background-image: url('222383.gif'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; min-height: 100vh; padding: 40px; color: #ffffff; text-shadow: 0 0 10px rgba(0,0,0,0.8); border-radius: 12px;">
-
-<h1 align="center">👋 Hi, I'm <strong>Shiva Sanjay</strong></h1>
-
-<p align="center">
-  <em>Full-Stack Developer | Problem Solver | Tech Enthusiast</em>
-</p>
+<h1 align="center">Hi 👋, I'm Shiva Sanjay</h1>
+<h3 align="center">Full-Stack Developer | Tech Enthusiast | Athlete | Problem Solver</h3>
 
 ---
 
-<!-- 🔥 Samurai Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/zYc5aPp.png" width="80%" />
-</p>
-
-# 🧑‍💻 About Me
-
-I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**. I enjoy creating **full-stack web projects**, solving complex problems, and consistently expanding my technical expertise. With the focus and resilience gained from sports and a deep passion for development. I strive to contribute meaningfully to every team and project I take part in.
+## 🌟 **About Me**
+✨ I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**.  
+💻 I enjoy creating **full-stack web projects**, solving complex problems, and continuously expanding my technical expertise.  
+🔥 With resilience from sports and passion for development, I strive to contribute meaningfully to every project and team.
 
 ---
 
-# 🚀 What I Do
-- Build **full-stack MERN applications**
-- Create **clean, responsive UI/UX**
-- Develop **MongoDB-connected tools & forms**
-- Deploy websites using **GitHub Pages**
-- Work on **fitness tech**, utilities, dashboards, and clones
-- Solve practical problems with simple, effective code
-
----
-
-# 🛠️ Tech Stack
-
+## 🚀 **Tech Stack**
 ### **Frontend**
-- HTML, CSS, JavaScript  
-- React.js, Tailwind CSS  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
+</p>
 
 ### **Backend**
-- Node.js  
-- Express.js  
-- REST APIs  
-
-### **Database**
-- MongoDB  
-- Mongoose  
-
-### **Tools**
-- Git & GitHub  
-- VS Code  
-- Postman  
-
----
-
-<!-- 🐍 Snake Animation Alternative (Hosted Elsewhere) -->
-<p align="center">
-  <img src="https://i.ibb.co/02mWqVQ/snake-dark.gif" width="100%" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
 </p>
 
-# 📌 Highlighted Projects
-
-### 🔥 **ARISE Fitness**
-A fitness platform where user input (weight, height, phone, name, etc.) is stored directly in MongoDB.
-
-### 🛒 **CampusKART**
-Mini e-commerce project built using React + Tailwind + Express + MongoDB.
-
-### 🎨 **UI/Static Projects**
-- Instagram Profile Clone  
-- Centered 6-box layout  
-- Sticky background pages  
-- Product detail pages  
-
-### 📘 **Maths II – Unit IV**
-Helped build explanations + study material for **Testing of Hypothesis**.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=compact&theme=tokyonight" />
+### **Tools & Platforms**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
 </p>
 
 ---
 
-# 🔥 Contribution Streak
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shivasanjay2007&theme=tokyonight" alt="GitHub Streak" /></a>
+## 🧠 **What I Can Do**
+- Build full-stack apps using **MERN**
+- Deploy front-end websites on **GitHub Pages**
+- Implement **authentication** (Signup/Login) with MongoDB
+- Connect and store form data (like ARISE Fitness calculator inputs)
+- Debug complex issues in VS Code
+- Create clean UI layouts with Tailwind/HTML/CSS
+- Manage Git & GitHub professionally
 
 ---
 
-# 📫 Connect With Me
+## 📌 **My Projects**
+### 🔹 **ARISE Fitness**
+Fitness website with:
+- BMI Calculator  
+- Data storage to MongoDB  
+- Frontend + Backend integration  
 
+### 🔹 **CampusKart**
+E-commerce mini project using MERN stack.
+
+### 🔹 **Mini Portfolio Projects**
+- Instagram static profile UI  
+- Blank layout templates  
+- Responsive pages  
+
+---
+
+## 🎯 **Current Goals**
+- Master advanced backend patterns  
+- Build multiple SaaS-style MERN apps  
+- Become a highly skilled full-stack engineer  
+
+---
+
+## 🎮 **Fun Zone**
 <p align="center">
-<a href="#"><img height="32" src="https://skillicons.dev/icons?i=github" /></a>
-<a href="#"><img height="32" src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="#"><img height="32" src="https://skillicons.dev/icons?i=instagram" /></a>
+  <img src="https://media.tenor.com/2roX3uxz_4IAAAAd/anime-wave.gif" width="300">
 </p>
 
-<!-- 🌊 Samurai Wave Footer (Non-Github Source) -->
-<p align="center">
-  <img src="https://i.imgur.com/0j1nWQy.gif" width="100%" />
+- Love anime characters similar to Asta, Yuno, and funny/clumsy characters  
+- Enjoy building tech mini-games  
+- Interested in cyberpunk one-word team names  
+
+---
+
+## 📫 **Connect With Me**
+<p>
+  <img src="https://cdn.pixabay.com/animation/2023/03/30/13/09/13-09-12-820_512.gif" width="60">
+  <b>Email:</b> shivasanjay2007@gmail.com  
 </p>
 
-</div>
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVASANJAY2007&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=compact&theme=react" />
+</p>
+
+---
+
+## 🎉 **Thank You for Visiting!**
+<p align="center">
+  <img src="https://cdn.pixabay.com/animation/2023/03/21/07/20/07-20-18-606_512.gif" width="150"/>
+</p>
