@@ -3,7 +3,7 @@
 
 ---
 
-<img src="https://i.postimg.cc/VNkQrK85/222383.gif" alt="Banner">
+
 
 ---
 ## 🌟 **About Me**
