@@ -1,14 +1,13 @@
-<!-- ⭐ SAMURAI ANIMATED HEADER -->
+<!-- ⚔️ Samurai Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=FF3B3B&center=true&vCenter=true&width=800&lines=⚔️+Shiva+Sanjay;+The+Silent+Samurai+of+Code;MERN+Warrior+|+Frontend+Ronin+|+Backend+Ninja" />
+  <img src="https://readme-typing-svg.demolab.com?size=32&duration=3500&color=F54242&center=true&vCenter=true&width=800&lines=⚔️+Shiva+Sanjay;+Silent+Samurai+of+Code;Frontend+Ronin+|+Backend+Ninja;MERN+Warrior" />
 </p>
 
-<!-- Falling Sakura Petals -->
-<img src="https://raw.githubusercontent.com/roshanlam/roshanlam/master/sakura.gif" width="100%" />
+<!-- 🌸 Falling Sakura (Non-Github source) -->
+<img src="https://i.imgur.com/3XjQZ4v.gif" width="100%" />
 
-<!-- Your Background Container -->
+<!-- 🔥 Main Background Container -->
 <div style="background-image: url('222383.gif'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; min-height: 100vh; padding: 40px; color: #ffffff; text-shadow: 0 0 10px rgba(0,0,0,0.8); border-radius: 12px;">
-
 
 <h1 align="center">👋 Hi, I'm <strong>Shiva Sanjay</strong></h1>
 
@@ -18,8 +17,10 @@
 
 ---
 
-<!-- Samurai Divider -->
-<p align="center"><img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/docs/imgs/capsule_red_samurai.svg" /></p>
+<!-- 🔥 Samurai Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/zYc5aPp.png" width="80%" />
+</p>
 
 # 🧑‍💻 About Me
 
@@ -59,9 +60,9 @@ I am a motivated and disciplined developer with strong leadership and team-build
 
 ---
 
-<!-- Animated Samurai Line -->
+<!-- 🐍 Snake Animation Alternative (Hosted Elsewhere) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://i.ibb.co/02mWqVQ/snake-dark.gif" width="100%" />
 </p>
 
 # 📌 Highlighted Projects
@@ -98,32 +99,17 @@ Helped build explanations + study material for **Testing of Hypothesis**.
 
 ---
 
-# 🎮 Mini Samurai Game (ASCII)
-
-    🗡 SAMURAI TRAINING 🗡
-    ---------------------
-    You are the Ronin of MERN.
-    Defeat bugs to gain experience!
-
-    Bug Appears! ⚠️
-    Choose Your Attack:
-    1. 🔪 Debug Slash
-    2. 🧠 Console.log Insight
-    3. ⚔️ StackOverflow Strike
-
-    > Your Journey Continues...
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
 <a href="#"><img height="32" src="https://skillicons.dev/icons?i=github" /></a>
-<a href="#"><img height="32" src="httpsales" /></a>
+<a href="#"><img height="32" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="#"><img height="32" src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
-<!-- Samurai Wave Footer -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+<!-- 🌊 Samurai Wave Footer (Non-Github Source) -->
+<p align="center">
+  <img src="https://i.imgur.com/0j1nWQy.gif" width="100%" />
+</p>
 
 </div>
