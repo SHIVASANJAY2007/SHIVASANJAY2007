@@ -1,4 +1,4 @@
-<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Hi+%F0%9F%91%8B%2C+I%27m+Shiva+Sanjay%22%2C%22typingSpeed%22%3A0.33222591362126247%7D%5D" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shiva+Sanjay)](https://git.io/typing-svg)
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Athlete | Problem Solver</h3>
 
 ---
