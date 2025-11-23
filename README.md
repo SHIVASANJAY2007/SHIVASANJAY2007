@@ -9,7 +9,8 @@
 
 ## 🌟 About Me
 
-<table style="border: none;">
+<table border="0">
+
 <tr>
 <td>
 
