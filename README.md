@@ -92,7 +92,7 @@ E-commerce mini project using MERN stack.
 
 ## 📊 **GitHub Stats**
 
-<img src="yourgif.gif" style="height:1200px; width:100%; object-fit:cover;" />
+<img src="Kimetsu1.gif" style="height:1200px; width:100%; object-fit:cover;" />
 
 
 <div align="left">
