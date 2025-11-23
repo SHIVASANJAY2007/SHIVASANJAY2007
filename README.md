@@ -50,11 +50,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
 </p>
+
 </div>
-<br clear="both">
+
+<br clear="both"/>
 
 ---
-
 
 ## 🧠 **What I Can Do**
 - Build full-stack apps using **MERN**
