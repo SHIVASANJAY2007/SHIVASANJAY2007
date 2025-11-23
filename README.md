@@ -3,7 +3,7 @@
 
 ---
 
-<img src="209343.gif" alt="Animation" align = "center" height="350" width="850">
+<img src="209343.gif" alt="Animation" align = "center" height="320" width="850">
 
 ---
 ## 🌟 About Me
