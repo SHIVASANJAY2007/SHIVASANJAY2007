@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 **Tech Stack**
-<img src="csss.gif" align="left" width="400" height="400">
+<img src="csss.gif" align="left" width="400" height="350">
 
 ### **Frontend**
 <p>
