@@ -10,7 +10,6 @@
 
 <img src="nika-sungod.gif" align="right" width="400" height="200">
 
-<br>
 
 ✨ I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**.
 
