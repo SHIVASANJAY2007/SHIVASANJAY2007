@@ -27,7 +27,6 @@
 
 ### **Frontend**
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
@@ -38,6 +37,7 @@
 </p>
 
 ### **Backend**
+<p>&nbsp;</p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
@@ -45,6 +45,7 @@
 </p>
 
 ### **Tools & Platforms**
+<p>&nbsp;</p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
