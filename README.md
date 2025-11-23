@@ -24,7 +24,7 @@
 
 <img src="csss.gif" align="left" width="400" height="340">
 
-<div style="float:left; width:600px;"></div>
+<div style="float:right; width:1500px;"></div>
 
 ### **Frontend**
 <p>
