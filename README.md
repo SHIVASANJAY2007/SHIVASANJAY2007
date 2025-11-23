@@ -98,7 +98,7 @@ E-commerce mini project using MERN stack.
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" 
-    width="375 height="180"
+    width="375" height="180"
   />
 
   <img 
