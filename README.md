@@ -66,8 +66,8 @@
 ---
 
 ## 📌 **My Projects**
-### 🔹 **FITLEE**
-
+### 🔹 **ARISE Fitness**
+Fitness website with:
 - BMI Calculator  
 - Data storage to MongoDB  
 - Frontend + Backend integration  
@@ -82,27 +82,42 @@ E-commerce mini project using MERN stack.
 
 ---
 
+## 🎯 **Current Goals**
+- Master advanced backend patterns  
+- Build multiple SaaS-style MERN apps  
+- Become a highly skilled full-stack engineer  
+
+---
+
+## 🎮 **Fun Zone**
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_4IAAAAd/anime-wave.gif" width="300">
+</p>
+
+- Love anime characters similar to Asta, Yuno, and funny/clumsy characters  
+- Enjoy building tech mini-games  
+- Interested in cyberpunk one-word team names  
+
+---
+
 ## 📫 **Connect With Me**
 <p>
   <img src="https://cdn.pixabay.com/animation/2023/03/30/13/09/13-09-12-820_512.gif" width="60">
-  <b>Email:</b>sanjudragon2007@gmail.com
+  <b>Email:</b> shivasanjay2007@gmail.com  
 </p>
 
 ---
 
 ## 📊 **GitHub Stats**
-
-<img src="Kimetsu1.gif" align="right" width="400" height="340">
-
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVASANJAY2007&theme=react" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=react" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=compact&theme=react" />
 </p>
 
