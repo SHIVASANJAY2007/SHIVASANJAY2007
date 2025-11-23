@@ -121,7 +121,7 @@ E-commerce mini project using MERN stack.
 ---
 
 ## **✍️ Random Dev Quote**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=center&theme=radical)
 
 ---
 
