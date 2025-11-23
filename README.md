@@ -24,9 +24,10 @@
 
 <img src="csss.gif" align="left" width="400" height="340">
 
+<div style="float:left; width:60px;"></div>  <!-- THIS ADDS SPACE -->
+
 ### **Frontend**
 <p>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
@@ -50,7 +51,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
 </p>
 
+<br clear="both">
+
 ---
+
 
 ## 🧠 **What I Can Do**
 - Build full-stack apps using **MERN**
