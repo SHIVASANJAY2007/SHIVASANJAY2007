@@ -23,9 +23,6 @@
 ## 🚀 **Tech Stack**
 <img src="csss.gif" align="left" width="400" height="340">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 ### **Frontend**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
