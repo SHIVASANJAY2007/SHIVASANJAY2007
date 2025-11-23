@@ -68,9 +68,6 @@
 ## 📌 **My Projects**
 ### 🔹 **FITLEE**
 
-<img src="Kimetsu1.gif" align="left" width="400" height="340">
-
-Fitness website with:
 - BMI Calculator  
 - Data storage to MongoDB  
 - Frontend + Backend integration  
@@ -94,15 +91,18 @@ E-commerce mini project using MERN stack.
 ---
 
 ## 📊 **GitHub Stats**
-<p align="center">
+
+<img src="Kimetsu1.gif" align="right" width="400" height="340">
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVASANJAY2007&theme=react" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=react" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=compact&theme=react" />
 </p>
 
