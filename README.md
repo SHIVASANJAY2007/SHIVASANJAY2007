@@ -22,7 +22,10 @@
 
 ## 🚀 **Tech Stack**
 
+<div style="float: left; width: 40%;">
 <img src="csss.gif" align="left" width="400" height="340">
+</div>
+<div style="float: right; width: 55%;">
 
 ### **Frontend**
 <p>
@@ -48,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
 </p>
-
+</div>
 ---
 
 ## 🧠 **What I Can Do**
