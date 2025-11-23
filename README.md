@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Shiva+Sanjay)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=835&lines=Hi+%F0%9F%91%8B%2C+I'm+Shiva+Sanjay)](https://git.io/typing-svg)
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Athlete | Problem Solver</h3>
 
 ---
