@@ -53,7 +53,7 @@
 
 ## 🧠 **What I Can Do**
 
-<img src="larry.gif"  align="right" width="200" height="300" hspace="120">
+<img src="larry.gif"  align="right" width="250" height="300" hspace="120">
 
 - Build full-stack apps using **MERN**
 - Deploy front-end websites on **GitHub Pages**
