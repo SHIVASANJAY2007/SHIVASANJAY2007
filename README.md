@@ -93,7 +93,8 @@ E-commerce mini project using MERN stack.
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVASANJAY2007&theme=react" />
+  <img src="https://streak-stats.demolab.com/?user=SHIVASANJAY2007&theme=react
+  " />
 </p>
 
 <p align="center">
