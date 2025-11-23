@@ -14,7 +14,7 @@
 ✨ I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**.  
 💻 I enjoy creating **full-stack web projects**, solving complex problems, and continuously expanding my technical expertise.  
 🔥 With resilience from sports and passion for development, I strive to contribute meaningfully to every project and team.
-
+<br><br>
 ---
 
 ## 🚀 **Tech Stack**
