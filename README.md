@@ -24,7 +24,7 @@
 
 <img src="csss.gif" align="left" width="400" height="340">
 
-<div style="float:left; width:60px;"></div>  <!-- THIS ADDS SPACE -->
+<div style="float:left; width:600px;"></div>
 
 ### **Frontend**
 <p>
