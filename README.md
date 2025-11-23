@@ -7,18 +7,12 @@
 
 
 ---
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px;">
-    <h2>🌟 <strong>About Me</strong></h2>
-    <p>✨ I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of <strong>Kho-Kho</strong>.<br>
-    💻 I enjoy creating <strong>full-stack web projects</strong>, solving complex problems, and continuously expanding my technical expertise.<br>
-    🔥 With resilience from sports and passion for development, I strive to contribute meaningfully to every project and team.</p>
-  </div>
-  <div style="flex: 0 0 400px;">
-    <img src="nika-sungod.gif" alt="Nika Sungod GIF" height="200" width="400" />
-  </div>
-</div>
+## 🌟 **About Me**
+✨ I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**.  
+💻 I enjoy creating **full-stack web projects**, solving complex problems, and continuously expanding my technical expertise.  
+🔥 With resilience from sports and passion for development, I strive to contribute meaningfully to every project and team.
 
+<img src="nika-sungod.gif" align = "right" height="200" width="400">
 
 
 ---
