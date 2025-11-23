@@ -14,7 +14,7 @@
 💻 I enjoy creating **full-stack web projects**, solving complex problems, and continuously expanding my technical expertise.  
 🔥 With resilience from sports and passion for development, I strive to contribute meaningfully to every project and team.
 
-
+<br clear="both" />
 
 ---
 
