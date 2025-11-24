@@ -65,7 +65,7 @@
 - Create clean UI layouts with Tailwind/HTML/CSS
 - Manage Git & GitHub professionally
 
----
+<img src="line.gif" width="860">
 
 ## 📌 **My Projects**
 ### 🔹 **FITLEE**
@@ -82,9 +82,7 @@ An AI powered chatbot for students education.
 
 Manual conditional checking using datasets to identify fake Instagram IDs 
 
-<img src="line.gif">
-
----
+<img src="line.gif" width="860">
 
 ## 📫 **Connect With Me**
 <p>
