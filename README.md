@@ -68,19 +68,19 @@
 ---
 
 ## 📌 **My Projects**
-### 🔹 **ARISE Fitness**
-Fitness website with:
-- BMI Calculator  
-- Data storage to MongoDB  
-- Frontend + Backend integration  
+### 🔹 **FITLEE**
+A Fitness website with:
+- NFT rewards  
+- AI chat system
+- Fitness plans
 
-### 🔹 **CampusKart**
-E-commerce mini project using MERN stack.
+### 🔹 **StudyMate**
 
-### 🔹 **Mini Portfolio Projects**
-- Instagram static profile UI  
-- Blank layout templates  
-- Responsive pages  
+An AI powered chatbot for students education.
+
+### 🔹 **FADE : Fake Account Detection**
+
+Manual conditional checking using datasets to identify fake Instagram IDs 
 
 ---
 
