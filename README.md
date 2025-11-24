@@ -82,6 +82,8 @@ An AI powered chatbot for students education.
 
 Manual conditional checking using datasets to identify fake Instagram IDs 
 
+<img src="line.gif">
+
 ---
 
 ## 📫 **Connect With Me**
