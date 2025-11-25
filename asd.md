@@ -1,125 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Shiva+Sanjay)](https://git.io/typing-svg)
-<h3 align="center">Full-Stack Developer | Tech Enthusiast | Athlete</h3>
+<h1 align="center">Hi 👋, I'm Shiva Sanjay N D</h1>
+<h3 align="center">Nothing</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivasanjay2007&label=Profile%20views&color=0e75b6&style=flat" alt="shivasanjay2007" /> </p>
 
-<img src="209343.gif" alt="Animation" align = "center" height="320" width="850">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivasanjay2007" alt="shivasanjay2007" /></a> </p>
 
----
-## 🌟 About Me
+- 🌱 I’m currently learning **Fullstack web development, Salesforce, Cybersecurity**
 
-<img src="nika-sungod.gif" align="right" width="400" height="200">
+- 📫 How to reach me **sanjudragon2007@gmail.com**
 
-
-✨ I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**.
-
-💻 I enjoy creating **full-stack web projects**, solving complex problems, and continuously expanding my technical expertise.
-
-🔥 With resilience from sports and passion for development, I strive to contribute meaningfully to every project and team.
-<br clear="both" />
-
----
-
-## 🚀 **Tech Stack**
-
-<img src="csss.gif" align="left" width="400" height="340">
-
-### **Frontend**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-### **Backend**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### **Tools & Platforms**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" width="50"/>
-  
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivasanjay2007&show_icons=true&locale=en&layout=compact" alt="shivasanjay2007" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivasanjay2007&show_icons=true&locale=en" alt="shivasanjay2007" /></p>
 
-## 🧠 **What I Can Do**
-
-<img src="larry.gif"  align="right" width="240" height="300" hspace="100">
-
-- Build full-stack apps using **MERN**
-- Deploy front-end websites on **GitHub Pages**
-- Implement **authentication** (Signup/Login) with MongoDB
-- Connect and store form data (like ARISE Fitness calculator inputs)
-- Debug complex issues in VS Code
-- Create clean UI layouts with Tailwind/HTML/CSS
-- Manage Git & GitHub professionally
-
-<img src="line.gif" width="860">
-
-## 📌 **My Projects**
-### 🔹 **FITLEE**
-A Fitness website with:
-- NFT rewards  
-- AI chat system
-- Fitness plans
-
-### 🔹 **StudyMate**
-
-An AI powered chatbot for students education.
-
-### 🔹 **FADE : Fake Account Detection**
-
-Manual conditional checking using datasets to identify fake Instagram IDs 
-
-<img src="line.gif" width="860">
-
-## 📫 **Connect With Me**
-<p>
-  <img src="https://cdn.pixabay.com/animation/2023/03/30/13/09/13-09-12-820_512.gif" width="60">
-  <b>Email:</b> sanjudragon2007@gmail.com  
-</p>
-
----
-
-## 📊 **GitHub Stats**
-
-<img src="Kimetsu1.gif"  align="right" width="400" height="1000" hspace="20">
-
-<div align="left">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" 
-    width="355" height="180"
-  />
-
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false" 
-    width="355" height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-    width="355" height="180"
-  />
-
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=SHIVASANJAY2007&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-
-## 🎉 **Thank You for Visiting!**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivasanjay2007&" alt="shivasanjay2007" /></p>
