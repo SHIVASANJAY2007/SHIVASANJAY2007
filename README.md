@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Shiva+Sanjay)](https://git.io/typing-svg)
-<h3 align="center">Full-Stack Developer | Tech Enthusiast | Athlete | Problem Solver</h3>
+<h3 align="center">Full-Stack Developer | Tech Enthusiast | Athlete</h3>
 
 ---
 
@@ -119,16 +119,6 @@ Manual conditional checking using datasets to identify fake Instagram IDs
 
 ## 🏆 **GitHub Trophies**
 ![](https://github-profile-trophy.vercel.app/?username=SHIVASANJAY2007&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-
-## **✍️ Random Dev Quote**
-
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
 
 ---
 
