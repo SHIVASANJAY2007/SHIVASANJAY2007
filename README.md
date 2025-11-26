@@ -8,7 +8,7 @@
 ---
 ## 🌟 About Me
 
-<img src="nika-sungod.gif" align="right" width="400" height="240">
+<img src="nika-sungod.gif" align="right" width="420" height="250">
 
 
 ✨ I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**.
