@@ -123,7 +123,6 @@ Manual conditional checking using datasets to identify fake Instagram IDs
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivasanjay2007" alt="shivasanjay2007" /></a> </p>
 
-
 ---
 
 ## 🎉 **Thank You for Visiting!**
