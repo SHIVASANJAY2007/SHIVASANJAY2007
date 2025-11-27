@@ -11,7 +11,7 @@
 <img src="nika.gif" align="right" width="420" height="250">
 
 
-✨ I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**. 
+✨ I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of **Kho-Kho**.
 
 💻 I enjoy creating **full-stack web projects**, solving complex problems, and continuously expanding my technical expertise.
 
