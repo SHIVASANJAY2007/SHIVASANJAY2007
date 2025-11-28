@@ -127,4 +127,4 @@ Manual conditional checking using datasets to identify fake Instagram IDs
 
 ## 🎉 **Thank You for Visiting!**
 
-<img src="download (4).gif" alt="Animation" align = "center" height="350" width="800">
+<img src="download (4).gif" alt="Animation" align = "center" height="380" width="840">
