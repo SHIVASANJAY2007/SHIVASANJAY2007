@@ -125,6 +125,18 @@ Manual conditional checking using datasets to identify fake Instagram IDs
 
 ---
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHIVASANJAY2007&theme=react-dark)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+![Contributions](https://img.shields.io/badge/Contributions-234-brightgreen?style=for-the-badge)
+
+---
+
 ## 🎉 **Thank You for Visiting!**
 
 <img src="download (4).gif" alt="Animation" align = "center" height="450" width="840">
