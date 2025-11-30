@@ -129,10 +129,6 @@ Manual conditional checking using datasets to identify fake Instagram IDs
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=tokyonight)
-
----
-
 ## 🎉 **Thank You for Visiting!**
 
 <img src="download (4).gif" alt="Animation" align = "center" height="450" width="840">
