@@ -133,10 +133,6 @@ Manual conditional checking using datasets to identify fake Instagram IDs
 
 ---
 
-![Contributions](https://img.shields.io/badge/Contributions-234-brightgreen?style=for-the-badge)
-
----
-
 ## 🎉 **Thank You for Visiting!**
 
 <img src="download (4).gif" alt="Animation" align = "center" height="450" width="840">
