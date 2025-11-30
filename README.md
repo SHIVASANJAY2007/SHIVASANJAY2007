@@ -129,7 +129,7 @@ Manual conditional checking using datasets to identify fake Instagram IDs
 
 ---
 
-![](https://green-wall.leoku.dev/api/og/share/[SHIVASANJAY2007])
+![Github Contribution Graph](https://green-wall.leoku.dev/share/SHIVASANJAY2007)
 
 ---
 
