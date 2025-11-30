@@ -101,7 +101,7 @@ Manual conditional checking using datasets to identify fake Instagram IDs
 <div align="left">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" 
+    src="https://github-readme-stats-shiv.vercel.app/api?username=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" 
     width="355" height="180"
   />
 
@@ -111,7 +111,7 @@ Manual conditional checking using datasets to identify fake Instagram IDs
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+    src="https://github-readme-stats-shiv.vercel.app/api/top-langs/?username=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false&layout=compact&include_all_commits=true&count_private=true" 
     width="355" height="180"
   />
 
