@@ -122,6 +122,10 @@ Manual conditional checking using datasets to identify fake Instagram IDs
 
 ---
 
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)
+
+---
+
 ## 🎉 **Thank You for Visiting!**
 
 <img src="download (4).gif" alt="Animation" align = "center" height="450" width="840">
