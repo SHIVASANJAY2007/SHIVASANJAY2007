@@ -100,7 +100,7 @@ Manual conditional checking using datasets to identify fake Instagram IDs
 
 <div align="left">
 
-  ![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=transparent)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007)](https://github.com/SHIVASANJAY2007/github-readme-stats)
 
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false" 
