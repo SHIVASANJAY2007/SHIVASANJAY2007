@@ -110,10 +110,7 @@ Manual conditional checking using datasets to identify fake Instagram IDs
   width="355" height="180"
 />
 
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SHIVASANJAY2007&theme=codeSTACKr&layout=compact"
-  width="355" height="180" alt="Top Langs"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
