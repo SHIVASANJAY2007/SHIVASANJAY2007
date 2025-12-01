@@ -100,15 +100,20 @@ Manual conditional checking using datasets to identify fake Instagram IDs
 
 <div align="left">
 
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shivasanjay2007?cardType=level-alternate&theme=great-gatsby&preferLogin=false)](https://git.io/awesome-stats-card)
-
-
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false" 
-    width="355" height="180"
-  />
+  src="https://awesome-github-stats.azurewebsites.net/user-stats/shivasanjay2007?cardType=level-alternate&theme=great-gatsby&preferLogin=false" 
+  width="355" height="180"
+/>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img 
+  src="https://nirzak-streak-stats.vercel.app/?user=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false" 
+  width="355" height="180"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false&layout=compact" 
+  width="355" height="180"
+/>
 </div>
 
 ---
