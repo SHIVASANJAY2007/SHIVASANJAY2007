@@ -100,7 +100,7 @@ Manual conditional checking using datasets to identify fake Instagram IDs
 
 <div align="left">
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007)](https://github.com/anuraghazra/github-readme-stats)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shivasanjay2007?cardType=level-alternate&theme=great-gatsby&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
   <img 
