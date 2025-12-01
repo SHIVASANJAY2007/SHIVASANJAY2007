@@ -96,7 +96,7 @@ Manual conditional checking using datasets to identify fake Instagram IDs
 
 ## 📊 **GitHub Stats**
 
-<img src="Kimetsu1.gif"  align="right" width="450" height="1000" hspace="20">
+<img src="Kimetsu1.gif"  align="right" width="410" height="1000" hspace="20">
 
 <div align="left">
 
