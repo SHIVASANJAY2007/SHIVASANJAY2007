@@ -88,8 +88,8 @@ Manual conditional checking using datasets to identify fake Instagram IDs
 
 ## 📫 **Connect With Me**
 <p>
-  <img src="https://cdn.pixabay.com/animation/2023/03/30/13/09/13-09-12-820_512.gif" width="60">
   <b>Email : </b> sanjudragon2007@gmail.com
+  <br>
   <b>LinkedIn : </b> <a href="https://www.linkedin.com/in/shiva-sanjay-610512320">Shiva Sanjay N D</a>
 </p>
 
