@@ -87,14 +87,27 @@ Manual conditional checking using datasets to identify fake Instagram IDs.
 
 <img src="line.gif" width="860">
 
-## 📫 **Connect With Me**
-<p>
-  <b>Email : </b> sanjudragon2007@gmail.com 
-  <br>
-  <b>LinkedIn : </b> <a href="https://www.linkedin.com/in/shiva-sanjay-610512320">Shiva Sanjay N D</a>
-  <br>
-  <b>Instagram : </b> <a href="https://www.instagram.com/_.kho_kho._.shivuuu._/?__pwa=1">_.kho_kho._.shivuuu._</a>
-</p>
+## 📫 Connect With Me
+
+<div align="left">
+
+💌 **Email**  
+<a href="mailto:sanjudragon2007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+🌐 **LinkedIn**  
+<a href="https://www.linkedin.com/in/shiva-sanjay-610512320">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+📸 **Instagram**  
+<a href="https://www.instagram.com/_.kho_kho._.shivuuu._/?__pwa=1">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
 
 ---
 
