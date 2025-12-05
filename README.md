@@ -27,19 +27,19 @@
 
 <img src="csss.gif" align="right" width="380"/>
 
-### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="45" />
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" height="50"/>
 </p>
 
-### 🛠 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="45" />
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="50"/>
 </p>
 
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,notion" height="45" />
+### 🧩 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,notion&theme=dark" height="50"/>
 </p>
 
 
