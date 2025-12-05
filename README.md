@@ -23,24 +23,47 @@
 
 ---
 
-## 🚀 Tech Stack
+<!-- NEON BORDER + NEON HEADINGS + DARK GLOW ICONS -->
 
-<img src="csss.gif" align="right" width="380"/>
+<div align="center">
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" height="50"/>
+<div style="
+  border: 3px solid #00eaff;
+  border-radius: 20px;
+  padding: 25px;
+  box-shadow: 0 0 25px #00eaff, 0 0 50px #00eaff inset;
+  background: #020617;
+  margin-bottom: 20px;
+">
+
+<h2 style="color:#00eaff; text-shadow: 0 0 15px #00eaff;">
+🚀 TECH STACK
+</h2>
+
+<img src="csss.gif" width="380" style="border-radius: 10px; box-shadow: 0 0 25px #ff00ea;"/>
+
+<br/><br/>
+
+<!-- FRONTEND -->
+<h3 style="color:#ff009d; text-shadow: 0 0 15px #ff009d;">🎨 Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" height="55"/>
 </p>
 
-### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="50"/>
+<!-- BACKEND -->
+<h3 style="color:#a855f7; text-shadow: 0 0 15px #a855f7;">⚙️ Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="55"/>
 </p>
 
-### 🧩 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,notion&theme=dark" height="50"/>
+<!-- TOOLS -->
+<h3 style="color:#00eaff; text-shadow: 0 0 15px #00eaff;">🧩 Tools & Platforms</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,notion&theme=dark" height="55"/>
 </p>
+
+</div>
+</div>
 
 
 ---
