@@ -25,23 +25,22 @@
 
 ## 🚀 Tech Stack
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<img src="csss.gif" align="right" width="380"/>
 
-<img src="csss.gif" width="350"/>
-
-<div>
-
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="50"/>
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="45" />
+</p>
 
 ### 🛠 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="50"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="45" />
+</p>
 
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,notion" height="50"/>
-
-</div>
-</div>
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,notion" height="45" />
+</p>
 
 
 ---
