@@ -106,6 +106,11 @@ Manual conditional checking using datasets to identify fake Instagram IDs.
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+💻 **GitHub**  
+<a href="https://github.com/SHIVASANJAY2007">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 
