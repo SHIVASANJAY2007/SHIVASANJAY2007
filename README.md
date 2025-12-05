@@ -92,6 +92,8 @@ Manual conditional checking using datasets to identify fake Instagram IDs.
   <b>Email : </b> sanjudragon2007@gmail.com 
   <br>
   <b>LinkedIn : </b> <a href="https://www.linkedin.com/in/shiva-sanjay-610512320">Shiva Sanjay N D</a>
+  <br>
+  <b>Instagram : </b> <a href="https://www.instagram.com/_.kho_kho._.shivuuu._/?__pwa=1">_.kho_kho._.shivuuu._</a>
 </p>
 
 ---
