@@ -82,7 +82,7 @@ An AI powered chatbot for students education.
 
 ### 🔹 **FADE : Fake Account Detection**
 
-Manual conditional checking using datasets to identify fake Instagram IDs 
+Manual conditional checking using datasets to identify fake Instagram IDs.
 
 <img src="line.gif" width="860">
 
