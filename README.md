@@ -23,36 +23,26 @@
 
 ---
 
-## 🚀 **Tech Stack**
+## 🚀 Tech Stack
 
-<img src="csss.gif" align="left" width="400" height="340">
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-### **Frontend**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
-</p>
+<img src="csss.gif" width="350"/>
 
-### **Backend**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
-</p>
+<div>
 
-### **Tools & Platforms**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" width="50"/>
-  
-</p>
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="50"/>
+
+### 🛠 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="50"/>
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,notion" height="50"/>
+
+</div>
+</div>
+
 
 ---
 
