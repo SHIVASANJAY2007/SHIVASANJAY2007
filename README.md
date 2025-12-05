@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Shiva+Sanjay)](https://git.io/typing-svg)
-<h3 align="center">Full-Stack Developer | Tech Enthusiast | Athlete</h3>
+<h3 align="center">Full-Stack Developer | Tech Enthusiast | Sportsman</h3>
 
 ---
 
@@ -18,6 +18,7 @@
 🌱 I’m currently learning **Fullstack web development, Salesforce, Cybersecurity**
 
 🔥 With resilience from sports and passion for development, I strive to contribute meaningfully to every project and team.
+
 <br clear="both" />
 
 ---
