@@ -67,7 +67,7 @@
 
 ---
 
-## 🧠 **What I Can Do**
+## 🧠 **What I Can Do** 
 
 <img src="larry.gif"  align="right" width="240" height="300" hspace="100">
 
