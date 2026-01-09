@@ -3,7 +3,7 @@
   
   <br/>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00eaff&center=true&vCenter=true&width=800&lines=Fullstack+Developer;Salesforce+Innovator;Odoo+Artisan;Cybersecurity+Sentinel;Kho-Kho+Athlete)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00eaff&center=true&vCenter=true&width=800&lines=Fullstack+Developer;Salesforce+Innovator;Odoo+Artisan;Cybersecurity+Sentinel;Sportsman)](https://git.io/typing-svg)
 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Legendary%20Mode-00eaff?style=flat-square&logo=github&logoColor=020617"/>
