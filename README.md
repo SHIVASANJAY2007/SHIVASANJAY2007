@@ -1,7 +1,7 @@
 <div align="center">
   <img src="cap.gif" width="100%"/>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=00eaff&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Salesforce+Specialist;Cybersecurity+Analyst;Kho-Kho+Sportsman)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=00eaff&center=true&vCenter=true&width=800&lines=End-to-End+Solutions+Architect;Salesforce+Cloud+Innovator;Odoo+Business+Solutions+Artisan;Digital+Security+Sentinel;Kho-Kho+Sportsman)](https://git.io/typing-svg)
   
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Legendary%20Mode%20Active-00eaff?style=flat-square&logo=github&logoColor=020617"/>
@@ -21,10 +21,10 @@
           ✨ I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of <b>Kho-Kho</b>.
         </p>
         <p align="left">
-          💻 I enjoy creating <b>full-stack web projects</b>, solving complex problems, and continuously expanding my technical expertise.
+          💻 I enjoy creating <b>end-to-end digital solutions</b>, solving complex problems, and continuously expanding my technical expertise.
         </p>
         <p align="left">
-          🛡️ My passion lies at the intersection of <b>Web Development, Salesforce Cloud, and Cybersecurity</b>.
+          🛡️ My passion lies at the intersection of <b>Web Architecture, Cloud Innovation, and Digital Security</b>.
         </p>
         <p align="left">
           🔥 With resilience from sports and passion for development, I strive to contribute meaningfully to every project and team.
@@ -73,7 +73,7 @@
 </p>
 
 <!-- TOOLS -->
-<h3 style="color:#00eaff; text-shadow: 0 0 15px #00eaff;">🧩 Tools & Specialties</h3>
+<h3 style="color:#00eaff; text-shadow: 0 0 15px #00eaff;">🧩 Areas of Expertise</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,linux,kali,salesforce,odoo&theme=dark" height="55"/>
 </p>
@@ -90,9 +90,9 @@
 - Build full-stack apps using **MERN**
 - Deploy front-end websites on **GitHub Pages**
 - Implement **authentication** (Signup/Login) with MongoDB
-- **Salesforce Development** & Cloud Integration
-- **Odoo Technical & Functional** knowledge
-- **Cybersecurity Auditing** & Fake Account Detection
+- **Salesforce Cloud Innovation** & CRM Integration
+- **Odoo ERP Customization** & Technical Solutions
+- **Digital Security Safeguarding** & Threat Detection
 - Manage Git & GitHub professionally
 
 <img src="line.gif" width="860">
