@@ -1,95 +1,39 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=250&section=header&text=SHIVA%20SANJAY&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=020617&desc=Master%20of%20the%20Digital%20Arch&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=200&section=header&text=SHIVA%20SANJAY&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=020617" width="100%"/>
   
   <br/>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=00eaff&center=true&vCenter=true&width=800&lines=End-to-End+Solutions+Architect++%E2%9C%A8;Salesforce+Cloud+Innovator++%E2%98%81%EF%B8%8F;Odoo+Business+Solutions+Artisan++%F0%9F%A7%AA;Digital+Security+Sentinel++%F0%9F%9B%A1%EF%B8%8F;Kho-Kho+Sportsman++%F0%9F%8F%83)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00eaff&center=true&vCenter=true&width=800&lines=Fullstack+Developer;Salesforce+Innovator;Odoo+Artisan;Cybersecurity+Sentinel;Kho-Kho+Athlete)](https://git.io/typing-svg)
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Celestial%20Mode-00eaff?style=for-the-badge&logo=github&logoColor=020617"/>
-    <img src="https://komarev.com/ghpvc/?username=SHIVASANJAY2007&color=00eaff&style=for-the-badge&label=VISITORS"/>
+    <img src="https://img.shields.io/badge/Status-Legendary%20Mode-00eaff?style=flat-square&logo=github&logoColor=020617"/>
+    <img src="https://komarev.com/ghpvc/?username=SHIVASANJAY2007&color=00eaff&style=flat-square&label=PROFILE+VIEWS"/>
   </p>
 </div>
 
 ---
 
-<div align="center">
-  <img src="nika.gif" width="500" style="border-radius: 30px; border: 4px solid #00eaff; box-shadow: 0 0 30px #00eaff;">
-</div>
-
-<br/>
-
-## 🌌 **THE DIVINE NARRATIVE**
-
-<blockquote>
-  <p align="center">
-    <i>"In the arena of life, as in the sport of Kho-Kho, I am the hunter and the protector. A motivated and disciplined architect of the digital void, blending the speed of an athlete with the precision of a sentinel."</i>
-  </p>
-</blockquote>
-
-<p align="center">
-  ✨ **Architect of End-to-End Solutions** | 🛡️ **Guardian of the Cloud Perimeter** | ☁️ **Cloud Innovation Specialist**
-</p>
-
----
-
-## 🏛️ **THE PANTHEON OF SKILLS**
-
-<div align="center">
-  <img src="csss.gif" width="100%" style="border-radius: 15px; opacity: 0.8;"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,nextjs&theme=dark" height="55"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,git,github,vscode,npm&theme=dark" height="55"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,kali,salesforce,odoo,aws,docker,py,java&theme=dark" height="55"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="line.gif" width="100%">
-</div>
-
----
-
-## 🧠 **OMNISCIENCE & CAPABILITIES**
+## 🌟 **About Me**
 
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="left">
-        <h3>🌐 Web Architecture</h3>
-        <ul>
-          <li>Forging resilient MERN applications</li>
-          <li>Crafting premium, high-converting UIs</li>
-          <li>Architecting scalable backend ecosystems</li>
-        </ul>
+      <td width="60%">
+        <p align="left">
+          ✨ I am a motivated and disciplined developer with strong leadership and team-building skills, shaped by my active involvement in the sport of <b>Kho-Kho</b>.
+        </p>
+        <p align="left">
+          💻 I enjoy creating <b>end-to-end digital solutions</b>, solving complex problems, and continuously expanding my technical expertise.
+        </p>
+        <p align="left">
+          🛡️ My passion lies at the intersection of <b>Web Architecture, Cloud Innovation, and Digital Security</b>.
+        </p>
+        <p align="left">
+          🔥 With resilience from sports and passion for development, I strive to contribute meaningfully to every project and team.
+        </p>
       </td>
-      <td width="50%" align="left">
-        <h3>🛡️ Digital Security</h3>
-        <ul>
-          <li>Sentinel-grade security auditing</li>
-          <li>Vulnerability detection & mitigation</li>
-          <li>Privacy-first data architecture</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="left">
-        <h3>☁️ Enterprise Innovation</h3>
-        <ul>
-          <li>Salesforce CRM cloud orchestration</li>
-          <li>Odoo ERP artisan development</li>
-          <li>Business process automation</li>
-        </ul>
-      </td>
-      <td width="50%" align="center">
-        <img src="larry.gif" width="200" style="border-radius: 15px;">
+      <td width="40%" align="center">
+        <img src="nika.gif" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00eaff;">
       </td>
     </tr>
   </table>
@@ -97,49 +41,73 @@
 
 ---
 
-## 📊 **DIVINE METRICS**
+## 🏛️ **THE FOUR PILLARS OF EXPERTISE**
 
 <div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shivasanjay2007?cardType=level-alternate&theme=great-gatsby" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SHIVASANJAY2007&theme=codeSTACKr" width="48%"/>
+  <img src="csss.gif" width="100%" style="border-radius: 15px; opacity: 0.9; margin-bottom: 20px;"/>
+</div>
+
+<div align="center">
+
+### 🌐 **Fullstack Development**
+*Mastering the complete digital lifecycle*
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb&theme=dark" height="50"/>
+
+<br/><br/>
+
+### ☁️ **Salesforce Ecosystem**
+*Architecting cloud-native excellence*
+<br/>
+<img src="https://skillicons.dev/icons?i=salesforce,gcp&theme=dark" height="50"/>
+
+<br/><br/>
+
+### 🧪 **Odoo Enterprise**
+*Crafting streamlined business solutions*
+<br/>
+<img src="https://skillicons.dev/icons?i=odoo,py,postgres,docker&theme=dark" height="50"/>
+
+<br/><br/>
+
+### 🛡️ **Cybersecurity Sentinel**
+*Defending the digital perimeter*
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,kali,postman&theme=dark" height="50"/>
+<img src="https://img.shields.io/badge/Security-Wireshark-blue?style=flat-square&logo=wireshark" height="25"/>
+<img src="https://img.shields.io/badge/Security-Metasploit-red?style=flat-square&logo=metasploit" height="25"/>
+
+</div>
+
+---
+
+## 📊 **DIVINE ANALYTICS**
+
+<div align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shivasanjay2007?cardType=level-alternate&theme=great-gatsby" width="400"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SHIVASANJAY2007&theme=codeSTACKr" width="400"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&theme=codeSTACKr&layout=compact" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&theme=codeSTACKr&layout=compact" width="380"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shivasanjay2007&theme=darkhub&no-bg=true&column=3" width="420"/>
 </div>
 
 ---
 
-## 🏆 **TROPHIES OF THE ASCENDED**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivasanjay2007&theme=darkhub&no-bg=true&column=4" width="80%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHIVASANJAY2007&theme=react-dark" width="100%"/>
-</p>
-
----
-
-## 🐍 **THE CONTRIBUTION SERPENT**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
-</p>
-
----
-
-<br/>
+<div align="center">
+  <img src="line.gif" width="100%">
+</div>
 
 <div align="center">
   <img src="Kimetsu1.gif" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px #00eaff;">
 </div>
 
-<br/>
+---
 
-## 📫 **REACH THE SOURCE**
+## 📫 **CONNECT WITH THE SOURCE**
 
 <div align="center">
   <a href="mailto:sanjudragon2007@gmail.com">
@@ -156,8 +124,9 @@
 ---
 
 <div align="center">
-  <h2 style="color:#00eaff; text-shadow: 0 0 10px #00eaff;">🌌 ASCENSION COMPLETE 🌌</h2>
-  <img src="download (4).gif" width="70%" style="border-radius: 20px; box-shadow: 0 0 30px #00eaff;"/>
+  <h2 style="color:#00eaff;">🎉 ASCENSION COMPLETE</h2>
+  <img src="download (4).gif" width="80%" style="border-radius: 20px; box-shadow: 0 0 30px #00eaff;"/>
 </div>
+
 
 
