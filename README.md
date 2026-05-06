@@ -71,13 +71,16 @@ margin-bottom: 20px;
 
 <img src="larry.gif" align="right" width="240" height="300" hspace="100">
 
-- Build full-stack apps using **MERN**
-- Deploy front-end websites on **GitHub Pages**
-- Implement **authentication** (Signup/Login) with MongoDB
-- Connect and store form data (like ARISE Fitness calculator inputs)
-- Debug complex issues in VS Code
-- Create clean UI layouts with Tailwind/HTML/CSS
-- Manage Git & GitHub professionally
+✔ Build scalable **full-stack applications (MERN)** with real-world use cases  
+✔ Design and automate workflows using **n8n (AI + WhatsApp integrations)**  
+✔ Develop and integrate **AI-powered features & chatbots**  
+✔ Implement secure **authentication systems (MongoDB, JWT)**  
+✔ Structure and manage **backend APIs & databases efficiently**  
+✔ Deploy and maintain web applications (**GitHub Pages, basic hosting**)  
+✔ Work with **enterprise tools (Salesforce CRM, Odoo ERP basics)**  
+✔ Debug, optimize, and improve performance of applications  
+✔ Design clean, responsive UIs using **Tailwind, HTML, CSS**  
+✔ Collaborate, manage version control, and maintain clean repos using **Git & GitHub**
 
 <img src="line.gif" width="860">
 
