@@ -134,26 +134,22 @@ Manual conditional checking using datasets to identify fake Instagram IDs.
 <div align="left">
 
 <img
-src="https://awesome-github-stats.azurewebsites.net/user-stats/shivasanjay2007?cardType=level-alternate&theme=great-gatsby&preferLogin=false"
+src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=codeSTACKr&hide_border=false"
 width="350" height="175"
 />
 
 <img
-src="https://nirzak-streak-stats.vercel.app/?user=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false"
+src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false"
 width="350" height="175"
 />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&theme=codeSTACKr&layout=compact&cache_seconds=7200&size_weight=0.5&count_weight=0.5" width="350" height="175">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&theme=codeSTACKr&layout=compact&hide_border=false" width="350" height="175">
 
 ---
 
 ## 🏆 **GitHub Trophies**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivasanjay2007" alt="shivasanjay2007" /></a> </p>
-
----
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHIVASANJAY2007&theme=react-dark)
 
 ---
 
