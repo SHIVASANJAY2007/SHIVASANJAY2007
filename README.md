@@ -85,19 +85,40 @@ margin-bottom: 20px;
 <img src="line.gif" width="860">
 
 ## 📌 **My Projects**
-### 🔹 **FITLEE**
-A Fitness website with:
-- NFT rewards
-- AI chat system
-- Fitness plans
 
-### 🔹 **StudyMate**
+### 🔥 FITLEE – Gamified Fitness Platform (🏆 Prize Winner)
 
-An AI powered chatbot for students education.
+FITLEE is a full-stack fitness web application designed to improve user engagement through **gamification and rewards**. The platform integrates an **NFT-based reward system** that incentivizes users to achieve fitness milestones.
 
-### 🔹 **FADE : Fake Account Detection**
+An **AI-powered chatbot** provides personalized fitness guidance, enhancing user experience and interaction. The system focuses on real-world usability, combining fitness tracking with motivational mechanics.
 
-Manual conditional checking using datasets to identify fake Instagram IDs.
+**Key Highlights:**
+- NFT-based reward system for user motivation  
+- Integrated AI chatbot for fitness assistance  
+- Full-stack MERN implementation  
+- Designed for engagement, scalability, and real-world use  
+
+👉 *Recognized with 1st Prize for Proof of Concept (2025)*
+
+### 🤖 ZYVOX AI – Automated Travel Assistant (🏆 Hackathon Winner)
+
+ZYVOX AI is an intelligent travel assistant built using **n8n workflow automation**, designed to deliver **personalized trip planning** in real time.
+
+The system is deployed as a **WhatsApp Business bot**, allowing users to interact seamlessly and receive automated travel recommendations, itineraries, and suggestions.
+
+**Key Highlights:**
+- Built using **n8n automation workflows**  
+- Integrated with **WhatsApp Business API**  
+- Real-time personalized travel planning  
+- Focus on automation, efficiency, and user convenience  
+
+👉 *Winner at Xackathon conducted by Xenovex Technologies for innovative automation and practical implementation*
+
+### ⚙️ INGRES – Intelligent Data & System Management Platform
+
+INGRES is a system-focused project aimed at managing and processing structured data efficiently through logical workflows and backend handling.
+
+The project emphasizes **data organization, processing logic, and system-level operations**, demonstrating strong fundamentals in backend development and problem-solving.
 
 <img src="line.gif" width="860">
 
