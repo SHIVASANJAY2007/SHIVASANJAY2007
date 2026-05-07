@@ -23,24 +23,17 @@
 
 ---
 
-<!-- NEON BORDER + NEON HEADINGS + DARK GLOW ICONS -->
+<!-- NEON BORDER WORKAROUND: GitHub strips inline box-shadow, so we use glowing line frames -->
 
 <div align="center">
 
-<div style="
-border: 3px solid #00eaff;
-border-radius: 20px;
-padding: 25px;
-box-shadow: 0 0 25px #00eaff, 0 0 50px #00eaff inset;
-background: #020617;
-margin-bottom: 20px;
-">
+<img src="line.gif" width="860">
 
 <h2 style="color:#00eaff; text-shadow: 0 0 15px #00eaff;">
 🚀 TECH STACK
 </h2>
 
-<img src="csss.gif" width="380" style="border-radius: 10px; box-shadow: 0 0 25px #ff00ea;"/>
+<img src="csss.gif" width="380" style="border-radius: 10px;"/>
 
 <br/><br/>
 
@@ -62,7 +55,8 @@ margin-bottom: 20px;
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,notion&theme=dark" height="55"/>
 </p>
 
-</div>
+<img src="line.gif" width="860">
+
 </div>
 
 ---
