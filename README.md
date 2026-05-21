@@ -1,11 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Shiva+Sanjay)](https://git.io/typing-svg)
-<h3 align="center">Full-Stack Developer | Tech Enthusiast | Sportsman</h3>
-
----
+<h3 align="center">Full-Stack Developer | Workflow Automator | Sportsman</h3>
 
 <img src="209343.gif" alt="Animation" align = "center" height="320" width="850">
 
----
 ## 🌟 About Me
 
 <img src="nika.gif" align="right" width="420" height="250">
@@ -21,45 +18,31 @@
 
 <br clear="both" />
 
----
-
-<!-- NEON BORDER WORKAROUND: GitHub strips inline box-shadow, so we use glowing line frames -->
-
 <div align="center">
 
-<img src="line.gif" width="860">
+<h2>🚀 TECH STACK</h2>
 
-<h2 style="color:#00eaff; text-shadow: 0 0 15px #00eaff;">
-🚀 TECH STACK
-</h2>
-
-<img src="csss.gif" width="380" style="border-radius: 10px;"/>
-
-<br/><br/>
+<br/>
 
 <!-- FRONTEND -->
-<h3 style="color:#ff009d; text-shadow: 0 0 15px #ff009d;">🎨 Frontend</h3>
+<h3>🎨 Frontend</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" height="55"/>
 </p>
 
 <!-- BACKEND -->
-<h3 style="color:#a855f7; text-shadow: 0 0 15px #a855f7;">⚙️ Backend</h3>
+<h3>⚙️ Backend</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="55"/>
 </p>
 
 <!-- TOOLS -->
-<h3 style="color:#00eaff; text-shadow: 0 0 15px #00eaff;">🧩 Tools & Platforms</h3>
+<h3>🧩 Tools & Platforms</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,notion&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,notion,docker,n8n&theme=dark" height="55"/>
 </p>
 
-<img src="line.gif" width="860">
-
 </div>
-
----
 
 ## 🧠 **What I Can Do**
 
@@ -75,8 +58,6 @@
 ✔ Debug, optimize, and improve performance of applications  
 ✔ Design clean, responsive UIs using **Tailwind, HTML, CSS**  
 ✔ Collaborate, manage version control, and maintain clean repos using **Git & GitHub**
-
-<img src="line.gif" width="860">
 
 ## 📌 **My Projects**
 
@@ -114,8 +95,6 @@ INGRES is a system-focused project aimed at managing and processing structured d
 
 The project emphasizes **data organization, processing logic, and system-level operations**, demonstrating strong fundamentals in backend development and problem-solving.
 
-<img src="line.gif" width="860">
-
 ## 📫 Connect With Me
 
 <div align="left">
@@ -142,9 +121,6 @@ The project emphasizes **data organization, processing logic, and system-level o
 
 </div>
 
-
----
-
 ## 📊 **GitHub Stats**
 
 <img src="Kimetsu1.gif" align="right" width="400" height="970" hspace="20">
@@ -152,24 +128,20 @@ The project emphasizes **data organization, processing logic, and system-level o
 <div align="left">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=codeSTACKr&hide_border=false"
+src="https://github-readme-stats.shion.dev/api?username=SHIVASANJAY2007&show_icons=true&theme=codeSTACKr&hide_border=false"
 width="350" height="175"
 />
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false"
+src="https://streak-stats.demolab.com/?user=SHIVASANJAY2007&theme=codeSTACKr&hide_border=false"
 width="350" height="175"
 />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&theme=codeSTACKr&layout=compact&hide_border=false" width="350" height="175">
-
----
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SHIVASANJAY2007&theme=codeSTACKr&layout=compact&hide_border=false" width="350" height="175">
 
 ## 🏆 **GitHub Trophies**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivasanjay2007" alt="shivasanjay2007" /></a> </p>
-
----
 
 ## 🎉 **Thank You for Visiting!**
 
