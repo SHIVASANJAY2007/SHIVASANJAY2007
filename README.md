@@ -24,22 +24,69 @@
 
 <br/>
 
-<!-- FRONTEND -->
-<h3>🎨 Frontend</h3>
+<!-- LANGUAGES KNOWN -->
+<h3>💻 Languages Known</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" height="55"/>
+  <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/></a>
+  <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/></a>
 </p>
 
-<!-- BACKEND -->
-<h3>⚙️ Backend</h3>
+<!-- CODE EDITORS -->
+<h3>📝 Code Editors</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="55"/>
+  <img src="https://img.shields.io/badge/Antigravity-DeepMind-5D3FD3?style=for-the-badge&logo=google-cloud&logoColor=white" height="40"/>
+  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40"/></a>
 </p>
 
-<!-- TOOLS -->
-<h3>🧩 Tools & Platforms</h3>
+<!-- AI TOOLS & ASSISTANTS -->
+<h3>🤖 AI Assistants</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,notion,docker,n8n&theme=dark" height="55"/>
+  <a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="40"/></a>
+  <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" height="40"/></a>
+</p>
+
+<!-- AI NOTEBOOKS & CO-PILOTS -->
+<h3>🧠 AI Notebooks & Co-Pilots</h3>
+<p>
+  <a href="https://notebookllm.google"><img src="https://img.shields.io/badge/NotebookLLM-4285F4?style=for-the-badge&logo=google&logoColor=white" height="40"/></a>
+  <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
+</p>
+
+<!-- FULL STACK OR MERN STACK -->
+<h3>⚙️ Full Stack / MERN (Backend & Databases)</h3>
+<p>
+  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/></a>
+  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/></a>
+  <a href="https://www.pgadmin.org"><img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/></a>
+  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40"/></a>
+</p>
+
+<!-- OTHER TOOLS & PLATFORMS -->
+<h3>🧩 Other Tools & Platforms</h3>
+<p>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
+  <a href="https://www.notion.so"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="40"/></a>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40"/></a>
+  <a href="https://n8n.io"><img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" height="40"/></a>
+  <a href="https://colab.research.google.com"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" height="40"/></a>
+</p>
+
+<!-- MS OFFICE TOOLS -->
+<h3>📊 MS Office Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" height="40"/>
+</p>
+
+<!-- CRM & ERP -->
+<h3>💼 CRM & ERP Platforms</h3>
+<p>
+  <a href="https://www.salesforce.com"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="40"/></a>
+  <a href="https://www.odoo.com"><img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="40"/></a>
 </p>
 
 </div>
