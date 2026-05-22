@@ -37,20 +37,15 @@
 <!-- CODE EDITORS -->
 <h3>📝 Code Editors</h3>
 <p>
-  <img src="https://img.shields.io/badge/Antigravity-DeepMind-5D3FD3?style=for-the-badge&logo=google-cloud&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Antigravity-5D3FD3?style=for-the-badge&logo=google-cloud&logoColor=white" height="40"/>
   <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40"/></a>
 </p>
 
-<!-- AI TOOLS & ASSISTANTS -->
-<h3>🤖 AI Assistants</h3>
+<!-- AI ASSISTANTS & CO-PILOTS -->
+<h3>🤖 AI Assistants & Co-Pilots</h3>
 <p>
   <a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="40"/></a>
   <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" height="40"/></a>
-</p>
-
-<!-- AI NOTEBOOKS & CO-PILOTS -->
-<h3>🧠 AI Notebooks & Co-Pilots</h3>
-<p>
   <a href="https://notebookllm.google"><img src="https://img.shields.io/badge/NotebookLLM-4285F4?style=for-the-badge&logo=google&logoColor=white" height="40"/></a>
   <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
 </p>
@@ -72,14 +67,7 @@
   <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40"/></a>
   <a href="https://n8n.io"><img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" height="40"/></a>
   <a href="https://colab.research.google.com"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" height="40"/></a>
-</p>
-
-<!-- MS OFFICE TOOLS -->
-<h3>📊 MS Office Tools</h3>
-<p>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" height="40"/>
 </p>
 
 <!-- CRM & ERP -->
