@@ -41,8 +41,8 @@
   <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40"/></a>
 </p>
 
-<!-- AI ASSISTANTS & CO-PILOTS -->
-<h3>🤖 AI Assistants & Co-Pilots</h3>
+<!-- AI Workspace -->
+<h3>🤖 AI Workspace</h3>
 <p>
   <a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="40"/></a>
   <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" height="40"/></a>
