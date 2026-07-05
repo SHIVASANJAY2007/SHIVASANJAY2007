@@ -25,7 +25,7 @@
 
 ### 📑 Quick Navigation
 
-[`About`](#-about-me) &nbsp;•&nbsp; [`Tech Stack`](#-tech-arsenal) &nbsp;•&nbsp; [`Projects`](#-featured-projects) &nbsp;•&nbsp; [`Education`](#-education) &nbsp;•&nbsp; [`Stats`](#-github-analytics) &nbsp;•&nbsp; [`Trophies`](#-github-trophies) &nbsp;•&nbsp; [`Connect`](#-lets-connect)
+[`About`](#-about-me) &nbsp;•&nbsp; [`Tech Stack`](#-tech-arsenal) &nbsp;•&nbsp; [`Projects`](#-featured-projects) &nbsp;•&nbsp; [`Education`](#-education) &nbsp;•&nbsp; [`Stats`](#-github-analytics) &nbsp;•&nbsp; [`Connect`](#-lets-connect)
 
 </div>
 
@@ -56,14 +56,18 @@ I lead my Kho-Kho team both on the field and in strategy — the same playbook m
 </td>
 <td width="40%" valign="top" align="center">
 
-```
-┌──────────────────────────┐
-│   STATUS: SHIPPING 🚀    │
-│   FOCUS:  AI + Automation│
-│   MODE:   Full-Stack     │
-│   SPORT:  Kho-Kho 🏆     │
-└──────────────────────────┘
-```
+<details open>
+<summary><b>⚡ Current Status</b></summary>
+<br/>
+<p>
+🚀 <b>Shipping:</b> Web Apps<br/>
+🤖 <b>Focus:</b> AI & Automation<br/>
+💻 <b>Mode:</b> Full-Stack & ERP<br/>
+🏆 <b>Sport:</b> Competitive Kho-Kho
+</p>
+</details>
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SHIVASANJAY2007&theme=tokyonight&hide_border=true&layout=compact" width="100%"/>
 
@@ -214,15 +218,7 @@ WhatsApp Business bot delivering real-time, personalized itinerary planning thro
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivasanjay2007&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
 
