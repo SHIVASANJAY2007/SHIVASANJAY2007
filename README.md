@@ -20,6 +20,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=3"/>
 
+<br/>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+<br/>
+
 <!-- ================= TABLE OF CONTENTS ================= -->
 <div align="center">
 
@@ -183,11 +189,14 @@ WhatsApp Business bot delivering real-time, personalized itinerary planning thro
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Dashboard
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=SHIVASANJAY2007&theme=tokyonight&hide_border=true" width="72%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=donut&theme=tokyonight&hide_border=true" height="175"/>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=SHIVASANJAY2007&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br/><br/>
 <picture>
