@@ -209,11 +209,8 @@ WhatsApp Business bot delivering real-time, personalized itinerary planning thro
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
 
 <img src="https://streak-stats.demolab.com/?user=SHIVASANJAY2007&theme=tokyonight&hide_border=true" width="72%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHIVASANJAY2007&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
