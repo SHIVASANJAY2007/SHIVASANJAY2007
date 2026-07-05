@@ -11,7 +11,7 @@
 <a href="https://github.com/SHIVASANJAY2007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/_.kho_kho._.shivuuu._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=SHIVASANJAY2007&style=for-the-badge&color=2a5298&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/SHIVASANJAY2007?style=for-the-badge&color=2a5298&labelColor=1e3c72"/>
@@ -19,12 +19,6 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=3"/>
-
-<br/>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
-<br/>
 
 <!-- ================= TABLE OF CONTENTS ================= -->
 <div align="center">
@@ -191,22 +185,14 @@ WhatsApp Business bot delivering real-time, personalized itinerary planning thro
 
 ## 📊 GitHub Analytics & Dashboard
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=donut&theme=tokyonight&hide_border=true" height="175"/>
-<br/>
-<img src="https://streak-stats.demolab.com/?user=SHIVASANJAY2007&theme=tokyonight&hide_border=true" width="60%"/>
-
-<br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175" alt="Top Languages"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=SHIVASANJAY2007&theme=tokyonight&hide_border=true" width="60%" alt="Streak Stats"/>
+  <br/><br/>
+  
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
 
@@ -214,13 +200,35 @@ WhatsApp Business bot delivering real-time, personalized itinerary planning thro
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">🏆<br/><b>1st Prize</b><br/>POC — Fitlee<br/><sub>Dept. HOD</sub></td>
-<td align="center" width="25%">🏆<br/><b>Xackathon 2k25</b><br/>Winner — Zyvox AI<br/><sub>Xenovex Technologies</sub></td>
-<td align="center" width="25%">🥇<br/><b>Back-to-Back Wins</b><br/>Marketing Events<br/><sub>Two consecutive events</sub></td>
-<td align="center" width="25%">🏅<br/><b>State-Level Kho-Kho</b><br/>Multiple Tournament Wins<br/><sub>Team Captain</sub></td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <br/>
+      <h1>🏆</h1>
+      <h3>1st Prize — POC Fitlee</h3>
+      <p><i>Awarded by Dept. HOD</i></p>
+    </td>
+    <td align="center" width="50%">
+      <br/>
+      <h1>🚀</h1>
+      <h3>Winner — Xackathon 2k25</h3>
+      <p><i>Xenovex Technologies</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br/>
+      <h1>🎯</h1>
+      <h3>Back-to-Back Wins</h3>
+      <p><i>Marketing Events</i></p>
+    </td>
+    <td align="center" width="50%">
+      <br/>
+      <h1><img src="https://cdn-icons-gif.flaticon.com/18307/18307447.gif" width="50" /></h1>
+      <h3>State-Level Kho-Kho</h3>
+      <p><i>Team Captain • Multiple Tournament Wins</i></p>
+    </td>
+  </tr>
 </table>
 
 </div>
