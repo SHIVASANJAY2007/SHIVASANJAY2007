@@ -35,45 +35,27 @@
 
 ## 🌟 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coder.gif" width="250" align="right"/>
+</div>
 
 > *"Discipline on the field builds discipline in the codebase."*
 
 I'm a motivated, detail-driven developer with strong leadership instincts, shaped by years of competitive **Kho-Kho**. I build full-stack systems end-to-end — from database schema to pixel-perfect UI — and I'm equally comfortable designing automation pipelines that connect real business workflows.
 
+<br/>
+
 **🔭 Currently building:**
 - 💰 **Finexa AI** — an AI-powered personal finance advisory platform for the Indian market
 - 🏭 **Velson ERP** — a web-based ERP system for a hardware manufacturing business
 
-**🌱 Currently deepening my skills in:**
+**🌱 Deepening my skills in:**
 Full-Stack Web Development • Salesforce • Cybersecurity
 
 **⚡ Fun fact:**
 I lead my Kho-Kho team both on the field and in strategy — the same playbook mindset shows up in how I architect software.
 
-</td>
-<td width="40%" valign="top" align="center">
-
-<details open>
-<summary><b>⚡ Current Status</b></summary>
-<br/>
-<p>
-🚀 <b>Shipping:</b> Web Apps<br/>
-🤖 <b>Focus:</b> AI & Automation<br/>
-💻 <b>Mode:</b> Full-Stack & ERP<br/>
-🏆 <b>Sport:</b> Competitive Kho-Kho
-</p>
-</details>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SHIVASANJAY2007&theme=tokyonight&hide_border=true&layout=compact" width="100%"/>
-
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
 
@@ -84,7 +66,7 @@ I lead my Kho-Kho team both on the field and in strategy — the same playbook m
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="38"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="38"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" height="38"/>
 </p>
 
@@ -96,7 +78,7 @@ I lead my Kho-Kho team both on the field and in strategy — the same playbook m
 
 <h3 align="center">🤖 AI Workspace</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="38"/> <img src="https://cdn.worldvectorlogo.com/logos/chatgpt-3.svg" height="38"/>
   <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/NotebookLLM-4285F4?style=for-the-badge&logo=google&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" height="38"/>
@@ -133,7 +115,7 @@ I lead my Kho-Kho team both on the field and in strategy — the same playbook m
 
 <h3 align="center">💼 CRM & ERP Platforms</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="38"/> <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" height="38"/>
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="38"/>
 </p>
 
@@ -141,70 +123,63 @@ I lead my Kho-Kho team both on the field and in strategy — the same playbook m
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=5"/>
-
-### 💰&nbsp; Finexa AI
-**AI-powered personal finance advisory platform**
-
+<details open>
+<summary><b>💰 Finexa AI</b> — AI-powered personal finance advisory platform</summary>
+<br/>
+<blockquote>
 Financial profiling wizard, multi-chart dashboard (Recharts), and an AI advisor chat — built end-to-end for the Indian fintech market, including a full investor-facing platform blueprint.
-
+<br/><br/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+</blockquote>
+</details>
 
-</td>
-<td width="50%" valign="top">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=5"/>
-
-### 🏭&nbsp; Velson ERP
-**Web-based ERP for hardware manufacturing**
-
+<details open>
+<summary><b>🏭 Velson ERP</b> — Web-based ERP for hardware manufacturing</summary>
+<br/>
+<blockquote>
 Centralized master-data architecture with modular submodules, backed by hardened agent-instruction documents (`seedDATA.md`, `GenerateReport.md`) for reliable test data and auto-generated technical docs.
-
+<br/><br/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=postgresql&logoColor=white"/>
+</blockquote>
+</details>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=5"/>
-
-### 🏋️&nbsp; Fitlee &nbsp;🏆
-**Gamified fitness platform — 1st Prize, Proof of Concept 2025**
-
+<details>
+<summary><b>🏋️ Fitlee 🏆</b> — Gamified fitness platform (1st Prize, Proof of Concept 2025)</summary>
+<br/>
+<blockquote>
 Full-stack MERN app with an NFT-based reward system for milestone tracking and an AI chatbot for personalized fitness guidance.
-
+<br/><br/>
 <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Chatbot-74AA9C?style=flat-square&logo=openai&logoColor=white"/>
+</blockquote>
+</details>
 
-</td>
-<td width="50%" valign="top">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=5"/>
-
-### ✈️&nbsp; Zyvox AI &nbsp;🏆
-**Automated travel assistant — Xackathon Winner, Xenovex Technologies**
-
+<details>
+<summary><b>✈️ Zyvox AI 🏆</b> — Automated travel assistant (Xackathon Winner, Xenovex Technologies)</summary>
+<br/>
+<blockquote>
 WhatsApp Business bot delivering real-time, personalized itinerary planning through n8n-driven automation workflows.
-
+<br/><br/>
 <img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-
-</td>
-</tr>
-</table>
+</blockquote>
+</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
 
-## 🎓 Education
+## 🎓 Education & Academics
 
-<div align="center">
+<br/>
 
-| 🏫 Institution | 📘 Program | 📊 Result |
-|:---|:---|:---:|
-| **Kongu Engineering College**, Perundurai | B.Sc. Information Systems | `8.74 CGPA` — Pursuing |
-| Kongu Vellalar Matriculation HSS, Perundurai | Higher Secondary (CS / Maths) | `82%` |
-| Kongu Vellalar Matriculation HSS, Perundurai | SSLC | `83.4%` |
+🌟 **B.Sc. Information Systems** (Pursuing)
+> **Kongu Engineering College**, Perundurai
+> *Current CGPA:* `8.74`
 
-</div>
+🌟 **Higher Secondary (CS / Maths)**
+> **Kongu Vellalar Matriculation HSS**, Perundurai
+> *Score:* `82%`
+
+🌟 **SSLC (10th Grade)**
+> **Kongu Vellalar Matriculation HSS**, Perundurai
+> *Score:* `83.4%`
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
 
@@ -212,9 +187,13 @@ WhatsApp Business bot delivering real-time, personalized itinerary planning thro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="175"/>
-
 <img src="https://streak-stats.demolab.com/?user=SHIVASANJAY2007&theme=tokyonight&hide_border=true" width="72%"/>
+
+<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
