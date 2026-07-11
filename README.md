@@ -192,7 +192,33 @@ WhatsApp Business bot delivering real-time, personalized itinerary planning thro
   <img src="https://streak-stats.demolab.com/?user=SHIVASANJAY2007&theme=tokyonight&hide_border=true" width="60%" alt="Streak Stats"/>
   <br/><br/>
   
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=SHIVASANJAY2007&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  </a>
+  
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
+
+## 🎮 Contribution Showcase
+
+<div align="center">
+  
+  <!-- Contribution Graph Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Animation" src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+  
+  <br/>
+  
+  <sub>👾 Watch the animation devour my contributions! (Requires Snake GitHub Action)</sub>
+  
+</div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
 
