@@ -1,3 +1,25 @@
+<!-- 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║        ███████╗██╗  ██╗██╗██╗   ██╗███████╗                                  ║
+║        ██╔════╝██║  ██║██║██║   ██║██╔════╝                                  ║
+║        ███████╗███████║██║██║   ██║███████╗                                  ║
+║        ╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██║                                  ║
+║        ███████║██║  ██║██║ ╚████╔╝ ██║  ██║                                  ║
+║        ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝                                  ║
+║                                                                              ║
+║   ███████╗█████╗ ███╗   ██╗██╗ █████╗ ██╗   ██╗                              ║
+║   ██╔════╝██╔══██╗████╗  ██║██║██╔══██╗╚██╗ ██╔╝                             ║
+║   ███████╗███████║██╔██╗ ██║██║███████║ ╚████╔╝                              ║
+║   ╚════██║██╔══██║██║╚██╗██║██║██╔══██║  ╚██╔╝                               ║
+║   ███████║██║  ██║██║ ╚████║██║██║  ██║   ██║                                ║
+║   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝   ╚═╝                                ║
+║                                                                              ║
+║        🚀 FULL-STACK DEVELOPER • WORKFLOW AUTOMATOR • SPORTSMAN 🚀           ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:0f2027&height=230&section=header&text=Shiva%20Sanjay%20N%20D&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Workflow%20Automator%20•%20Sportsman&descAlignY=53&descSize=17&animation=fadeIn" />
@@ -205,16 +227,25 @@ WhatsApp Business bot delivering real-time, personalized itinerary planning thro
 
 <div align="center">
   
-  <!-- Contribution Graph Animation -->
+  <!-- Breakout Contribution Graph -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Animation" src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/breakout-contribution-graph.svg">
+    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/breakout-contribution-graph.svg" width="100%">
+  </picture>
+  
+  <br/><br/>
+  
+  <!-- Pac-Man Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/pacman-contribution-graph.svg" width="100%">
   </picture>
   
   <br/>
   
-  <sub>👾 Watch the animation devour my contributions! (Requires Snake GitHub Action)</sub>
+  <sub>🧱 Watch Breakout & Pac-Man devour my contributions!</sub>
   
 </div>
 
