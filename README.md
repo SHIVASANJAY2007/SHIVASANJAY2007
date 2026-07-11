@@ -302,14 +302,14 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
 </p>
 
 <h3 align="center">📝 Code Editors & AI Workspace</h3>
-<!-- <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/Antigravity-5D3FD3?style=for-the-badge&logo=googlecloud&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=chatgpt&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/NotebookLLM-4285F4?style=for-the-badge&logo=google&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" height="38"/>
-</p> -->
+</p>
 
 <h3 align="center">⚙️ Full Stack / MERN Stack</h3>
 <p align="center">
