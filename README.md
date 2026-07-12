@@ -268,7 +268,7 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   <br/><br/>
   
   <!-- Isometric Contribution Graph (Dark Theme) -->
-  <img alt="Isometric Contributions" src="./assets/isometric-graph.png" width="100%">
+  <img alt="Isometric Contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
   
   <br/>
   
