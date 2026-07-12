@@ -1,6 +1,6 @@
 sample.md
-.yml
-.gif
-Unused
+*.yml
+*.gif
+Unused/
 Implement.md
 old.md
