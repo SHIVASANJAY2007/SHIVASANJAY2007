@@ -60,9 +60,24 @@
 <!-- 🖥️ TERMINAL INTRO SECTION                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="./assets/terminal-intro.svg" alt="Terminal Introduction" width="650"/>
-</div>
+<h3 align="center">
+  <code>shiva@github: ~$ cat intro.txt</code>
+</h3>
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="avi-ascii.svg">
+    <source media="(prefers-color-scheme: light)" srcset="avi-ascii.svg">
+    <img src="avi-ascii.svg" width="370">
+  </picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="info-card.svg">
+    <source media="(prefers-color-scheme: light)" srcset="info-card.svg">
+    <img src="info-card.svg" width="490">
+  </picture>
+</p>
 
 <br/>
 
@@ -197,6 +212,19 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
 <br/><br/>
 
 <div align="center">
+  
+  <h3 align="center">
+    <code>shiva@github: ~$ ./show_contributions.sh</code>
+  </h3>
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="contrib-heatmap.svg">
+    <source media="(prefers-color-scheme: light)" srcset="contrib-heatmap.svg">
+    <img src="contrib-heatmap.svg" width="100%">
+  </picture>
+  
+  <br/><br/>
   
   <!-- GitHub Stats + Custom Streak in ONE ROW -->
   <a href="https://github.com/SHIVASANJAY2007">
