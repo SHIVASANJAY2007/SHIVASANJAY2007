@@ -15,7 +15,7 @@
 ║   ███████║██║  ██║██║ ╚████║██║██║  ██║   ██║                                ║
 ║   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝   ╚═╝                                ║
 ║                                                                              ║
-║        🚀 FULL-STACK DEVELOPER • WORKFLOW AUTOMATOR • SPORTSMAN 🚀           ║
+║            🚀 AI & WEB DEVELOPER • TRAINER • SPORTSMAN 🚀                    ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
@@ -26,7 +26,7 @@
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:0f2027&height=230&section=header&text=Shiva%20Sanjay%20N%20D&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Workflow%20Automator%20•%20Sportsman&descAlignY=53&descSize=17&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:0f2027&height=230&section=header&text=Shiva%20Sanjay%20N%20D&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Web%20Developer%20•%20Trainer%20•%20Sportsman&descAlignY=53&descSize=17&animation=fadeIn" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2A5298&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%A1;Architecting+full-stack+%2B+ERP+systems+%F0%9F%92%BB;Kho-Kho+player+%26+team+captain+%F0%9F%8F%86" />
 
@@ -78,54 +78,49 @@
 
 <br/><br/>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ### 🎯 What I Do
 
 ```yaml
 name: Shiva Sanjay N D
-located_in: Tamil Nadu, India 🇮🇳
-current_status: Student & Full-Stack Developer
+located_in: Perundurai, Tamil Nadu, India 🇮🇳
+current_status: AI & Web Developer, Technical and Non-Technical Trainer
+contact:
+  - 📧 shivasanjay9255@gmail.com
+  - 🌐 https://shivasanjay.vercel.app/
 
 areas_of_expertise:
-  - 🌐 Full-Stack Web Development
+  - 🌐 AI & Web Development
   - ⚙️ Business Workflow Automation (n8n)
-  - 💼 CRM & ERP Architecture
+  - 💼 CRM & ERP (Salesforce, Odoo)
+  - 🛡️ Cybersecurity
   - 🏆 Leadership & Sports Strategy
 
 currently_building:
-  - Finexa AI (Fintech Advisory)
-  - Velson ERP (Manufacturing Software)
-  - Next-gen AI automation solutions
+  - INGRES (AI-powered chatbot for groundwater data)
+  - FADE (Instagram Fake Account Detection Engine)
 
 life_philosophy: "Discipline on the field builds discipline in the codebase."
 ```
 
-</td>
-<td width="45%" valign="top">
+<br/>
 
 ### 🚀 Current Focus
 
-- 🏗️ **Architecting** full-stack web applications
-- ⚡ **Automating** real-world business workflows
+- 🏗️ **Building** solutions that work in the real world
+- ⚡ **Exploring** emerging technologies to build practical, user-focused solutions
 - 🌱 **Deepening** my skills in Salesforce & Cybersecurity
-- 🏃‍♂️ **Leading** my Kho-Kho team as Captain
-- 📚 **Pursuing** B.Sc. Information Systems at Kongu Engineering College
+- 🏃‍♂️ **Leading** my Kho-Kho team as Captain & actively staying consistent with fitness
+- 📚 **Pursuing** B.Sc. Information Systems at Kongu Engineering College (2024 - 2027)
 
 <br/>
 
-### 💡 Quick Facts
+### 💡 Quick Facts & Leadership
 
-- 🏅 State-Level Kho-Kho Captain (Multiple wins)
+- 🏅 Kho Kho Team Captain (Multiple State-Level wins)
+- 👔 Association Joint Secretary & Class Representative at KEC
 - 🔥 Passionate about automation & AI
-- 💡 Xackathon Winner at Xenovex Technologies
-- ☕ Driven by details and competitive spirit
-
-</td>
-</tr>
-</table>
+- 💡 Xackathon-2025 Winner at Xenovex Technologies
+- 💼 Completed Internship at Xenovex Technologies (1 Month)
 
 <br/>
 
@@ -359,22 +354,22 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
 <br/>
 
 <details open>
-<summary><b>💰 Finexa AI</b> — AI-powered personal finance advisory platform</summary>
+<summary><b>🤖 INGRES</b> — AI-powered chatbot for the INGRES platform</summary>
 <br/>
 <blockquote>
-Financial profiling wizard, multi-chart dashboard (Recharts), and an AI advisor chat — built end-to-end for the Indian fintech market, including a full investor-facing platform blueprint.
+Designed and developed an AI-powered chatbot for the INGRES platform, enabling intelligent groundwater data retrieval through natural language queries with multilingual support.
 <br/><br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Chatbot-74AA9C?style=flat-square&logo=openai&logoColor=white"/>
 </blockquote>
 </details>
 
 <details open>
-<summary><b>🏭 Velson ERP</b> — Web-based ERP for hardware manufacturing</summary>
+<summary><b>🛡️ FADE</b> — Instagram Fake Account Detection Engine</summary>
 <br/>
 <blockquote>
-Centralized master-data architecture with modular submodules, backed by hardened agent-instruction documents (`seedDATA.md`, `GenerateReport.md`) for reliable test data and auto-generated technical docs.
+Developed an Instagram Fake Account Detection Engine using machine learning to analyze profile authenticity, generate real-time risk scores, and identify suspicious accounts through an interactive 3D user interface.
 <br/><br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </blockquote>
 </details>
 
@@ -382,17 +377,17 @@ Centralized master-data architecture with modular submodules, backed by hardened
 <summary><b>🏋️ Fitlee 🏆</b> — Gamified fitness platform (1st Prize, Proof of Concept 2025)</summary>
 <br/>
 <blockquote>
-Full-stack MERN app with an NFT-based reward system for milestone tracking and an AI chatbot for personalized fitness guidance.
+Prize-winning fitness web application featuring an NFT-based reward system to gamify user engagement and milestone tracking. Integrated an AI chatbot for personalized fitness guidance with a focus on usability and innovation.
 <br/><br/>
 <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Chatbot-74AA9C?style=flat-square&logo=openai&logoColor=white"/>
 </blockquote>
 </details>
 
 <details>
-<summary><b>✈️ Zyvox AI 🏆</b> — Automated travel assistant (Xackathon Winner, Xenovex Technologies)</summary>
+<summary><b>✈️ Zyvox AI 🏆</b> — Automated travel assistant (Xackathon-2025 Winner, Xenovex Technologies)</summary>
 <br/>
 <blockquote>
-WhatsApp Business bot delivering real-time, personalized itinerary planning through n8n-driven automation workflows.
+Team-developed AI travel assistant built using n8n to automate personalized trip planning workflows. Deployed as a WhatsApp Business bot to provide users with real-time travel suggestions and itinerary generation.
 <br/><br/>
 <img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 </blockquote>
@@ -422,11 +417,15 @@ WhatsApp Business bot delivering real-time, personalized itinerary planning thro
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
 </a>
 &nbsp;
+<a href="https://shivasanjay.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b26" alt="Portfolio"/>
+</a>
+&nbsp;
 <a href="https://www.instagram.com/_.kho_kho._.shivuuu._/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b26" alt="Instagram"/>
 </a>
 &nbsp;
-<a href="mailto:sanjudragon2007@gmail.com">
+<a href="mailto:shivasanjay9255@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
 </a>
 
@@ -448,7 +447,7 @@ WhatsApp Business bot delivering real-time, personalized itinerary planning thro
 
 <div align="center">
   
-### 💭 Random Dev Quote
+### 💭Random Dev Quote
 
 <br/>
 
