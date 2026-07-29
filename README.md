@@ -135,13 +135,13 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   <tr>
     <td align="center" width="50%">
       <br/>
-      <h1><img src="./Concept.png" width="50" /></h1>
+      <h1><img src="./concept.png" width="50" /></h1>
       <h3>1st Prize — POC Fitlee</h3>
       <p><i>Awarded by Dept. HOD</i></p>
     </td>
     <td align="center" width="50%">
       <br/>
-      <h1><img src="./Hackathon.png" width="50" /></h1>
+      <h1><img src="./hackathon.png" width="50" /></h1>
       <h3>Winner — Xackathon 2k25</h3>
       <p><i>Xenovex Technologies</i></p>
     </td>
@@ -149,7 +149,7 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   <tr>
     <td align="center" width="50%">
       <br/>
-      <h1><img src="./Campaign.png" width="50" /></h1>
+      <h1><img src="./campaign.png" width="50" /></h1>
       <h3>Back-to-Back Wins</h3>
       <p><i>Marketing Events</i></p>
     </td>
