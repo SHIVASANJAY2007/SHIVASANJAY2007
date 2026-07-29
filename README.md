@@ -12,7 +12,6 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FFFF00&background=000000&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%A1;Architecting+full-stack+%2B+ERP+systems+%F0%9F%92%BB;Kho-Kho+player+%26+team+captain+%F0%9F%8F%86" />
 
-  <br/><br/>
   
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   <!-- 📊 PROFILE BADGES                                                           -->
@@ -36,7 +35,6 @@
   
 </div>
 
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🖥️ TERMINAL INTRO SECTION                                                   -->
@@ -46,11 +44,9 @@
   <img src="./assets/terminal-intro.svg" alt="Terminal Introduction" width="650"/>
 </div>
 
-<br/>
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 👤 ABOUT ME SECTION                                                          -->
@@ -58,57 +54,45 @@
 
 <img src="./assets/section-about.svg" width="180"/>
 
-<br/><br/>
 
 ### 🎯 What I Do
 
-```yaml
-name: Shiva Sanjay N D
-located_in: Perundurai, Tamil Nadu, India 🇮🇳
-current_status: AI & Web Developer, Technical and Non-Technical Trainer
-contact:
-  - 📧 shivasanjay9255@gmail.com
-  - 🌐 https://shivasanjay.vercel.app/
+<div align="center">
+  <table align="center" width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <h2>🌐</h2>
+        <b>AI & Web Development</b>
+      </td>
+      <td width="33%" align="center">
+        <h2>⚙️</h2>
+        <b>Workflow Automation (n8n)</b>
+      </td>
+      <td width="33%" align="center">
+        <h2>💼</h2>
+        <b>CRM & ERP Solutions</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
-areas_of_expertise:
-  - 🌐 AI & Web Development
-  - ⚙️ Business Workflow Automation (n8n)
-  - 💼 CRM & ERP (Salesforce, Odoo)
-  - 🛡️ Cybersecurity
-  - 🏆 Leadership & Sports Strategy
+> **🚀 Currently Building & Exploring:**
+> - 🤖 **INGRES:** AI-powered chatbot for intelligent groundwater data retrieval
+> - 🛡️ **FADE:** Instagram Fake Account Detection Engine utilizing Machine Learning
+> - 🌱 Deepening skills in **Salesforce** and **Cybersecurity** to build robust systems
 
-currently_building:
-  - INGRES (AI-powered chatbot for groundwater data)
-  - FADE (Instagram Fake Account Detection Engine)
+> **💡 Quick Facts & Leadership:**
+> - 🏅 **Team Captain** (Multiple State-Level Kho-Kho wins) | 👔 **Association Joint Secretary** (KEC)
+> - 🏆 **Xackathon-2025 Winner** (Xenovex Technologies)
+> - 📚 Pursuing B.Sc. Information Systems at Kongu Engineering College (2024 - 2027)
 
-life_philosophy: "Discipline on the field builds discipline in the codebase."
-```
+<div align="center">
+  <i>"Discipline on the field builds discipline in the codebase."</i>
+</div>
 
-<br/>
-
-### 🚀 Current Focus
-
-- 🏗️ **Building** solutions that work in the real world
-- ⚡ **Exploring** emerging technologies to build practical, user-focused solutions
-- 🌱 **Deepening** my skills in Salesforce & Cybersecurity
-- 🏃‍♂️ **Leading** my Kho-Kho team as Captain & actively staying consistent with fitness
-- 📚 **Pursuing** B.Sc. Information Systems at Kongu Engineering College (2024 - 2027)
-
-<br/>
-
-### 💡 Quick Facts & Leadership
-
-- 🏅 Kho Kho Team Captain (Multiple State-Level wins)
-- 👔 Association Joint Secretary & Class Representative at KEC
-- 🔥 Passionate about automation & AI
-- 💡 Xackathon-2025 Winner at Xenovex Technologies
-- 💼 Completed Internship at Xenovex Technologies (1 Month)
-
-<br/>
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
@@ -116,7 +100,6 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
 
 <img src="./assets/section-trophy.svg" width="200"/>
 
-<br/><br/>
 
 <div align="center">
   
@@ -127,20 +110,17 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   
 </div>
 
-<br/>
 
 <div align="center">
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <br/>
       <h1><img src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/main/concept.png" width="50" /></h1>
       <h3>1st Prize — POC Fitlee</h3>
       <p><i>Awarded by Dept. HOD</i></p>
     </td>
     <td align="center" width="50%">
-      <br/>
       <h1><img src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/main/hackathon.png" width="50" /></h1>
       <h3>Winner — Xackathon 2k25</h3>
       <p><i>Xenovex Technologies</i></p>
@@ -148,13 +128,11 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   </tr>
   <tr>
     <td align="center" width="50%">
-      <br/>
       <h1><img src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/main/campaign.png" width="50" /></h1>
       <h3>Back-to-Back Wins</h3>
       <p><i>Marketing Events</i></p>
     </td>
     <td align="center" width="50%">
-      <br/>
       <h1><img src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/main/speed.png" width="50" /></h1>
       <h3>State-Level Kho-Kho</h3>
       <p><i>Team Captain • Multiple Tournament Wins</i></p>
@@ -164,11 +142,9 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
 
 </div>
 
-<br/>
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB ANALYTICS                                                         -->
@@ -185,7 +161,7 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   </a>
   
   <a href="https://github.com/SHIVASANJAY2007">
-    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVASANJAY2007&background=000000&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
+    <img height="195em" src="https://github-readme-streak-stats-production.up.railway.app/?user=SHIVASANJAY2007&background=000000&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
   </a>
   
   
@@ -200,7 +176,6 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   
 </div>
 
-<br/>
 
 <img src="./assets/divider.svg" width="100%"/>
 
@@ -208,7 +183,6 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
 
 <div align="center">
   
-  <br/><br/>
   
   <!-- Pac-Man Contribution Graph -->
   <picture>
@@ -217,7 +191,6 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/pacman-contribution-graph.svg" width="100%">
   </picture>
   
-  <br/><br/>
   
   <!-- Isometric Contribution Graph (Dark Theme) -->
   <img alt="Isometric Contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
@@ -225,15 +198,12 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   
 </div>
 
-<br/>
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<br/>
 
 <img src="./assets/section-tech.svg" width="180"/>
 
-<br/><br/>
 
 <div align="center">
 
@@ -263,7 +233,6 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="38"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="38"/>
-  <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="38"/>
@@ -285,11 +254,9 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
 
 </div>
 
-<br/>
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<br/>
 
 <div align="center">
   
@@ -297,53 +264,42 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
 
 </div>
 
-<br/>
 
 <details open>
 <summary><b>🤖 INGRES</b> — AI-powered chatbot for the INGRES platform</summary>
-<br/>
 <blockquote>
 Designed and developed an AI-powered chatbot for the INGRES platform, enabling intelligent groundwater data retrieval through natural language queries with multilingual support.
-<br/><br/>
 <img src="https://img.shields.io/badge/AI_Chatbot-74AA9C?style=flat-square&logo=openai&logoColor=white"/>
 </blockquote>
 </details>
 
 <details open>
 <summary><b>🛡️ FADE</b> — Instagram Fake Account Detection Engine</summary>
-<br/>
 <blockquote>
 Developed an Instagram Fake Account Detection Engine using machine learning to analyze profile authenticity, generate real-time risk scores, and identify suspicious accounts through an interactive 3D user interface.
-<br/><br/>
 <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </blockquote>
 </details>
 
 <details>
 <summary><b>🏋️ Fitlee 🏆</b> — Gamified fitness platform (1st Prize, Proof of Concept 2025)</summary>
-<br/>
 <blockquote>
 Prize-winning fitness web application featuring an NFT-based reward system to gamify user engagement and milestone tracking. Integrated an AI chatbot for personalized fitness guidance with a focus on usability and innovation.
-<br/><br/>
 <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Chatbot-74AA9C?style=flat-square&logo=openai&logoColor=white"/>
 </blockquote>
 </details>
 
 <details>
 <summary><b>✈️ Zyvox AI 🏆</b> — Automated travel assistant (Xackathon-2025 Winner, Xenovex Technologies)</summary>
-<br/>
 <blockquote>
 Team-developed AI travel assistant built using n8n to automate personalized trip planning workflows. Deployed as a WhatsApp Business bot to provide users with real-time travel suggestions and itinerary generation.
-<br/><br/>
 <img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 </blockquote>
 </details>
 
-<br/>
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🌐 CONNECT WITH ME                                                          -->
@@ -351,47 +307,42 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
 
 <img src="./assets/section-connect.svg" width="160"/>
 
-<br/><br/>
 
 <div align="center">
   
 <a href="https://github.com/SHIVASANJAY2007" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-FFFF00?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFF00" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/shiva-sanjay-610512320" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-FFFF00?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFF00" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://shivasanjay.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FFFF00?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFFF00" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://www.instagram.com/_.kho_kho._.shivuuu._/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-FFFF00?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=000000" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFF00" alt="Instagram"/>
 </a>
 &nbsp;
 <a href="mailto:shivasanjay9255@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFFF00?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFF00" alt="Email"/>
 </a>
 
-<br/><br/>
 
 *"Discipline on the field, precision in the code."*
 
 </div>
 
-<br/>
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<br/>
 
 <div align="center">
   
 ### 💭Random Dev Quote
 
-<br/>
 
 <a href="https://github.com/SHIVASANJAY2007">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=000000&quote_color=FFFF00&author_color=ffffff" alt="Random Dev Quote" width="60%"/>
@@ -399,13 +350,11 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
 
 </div>
 
-<br/>
 
 <div align="center">
   
   <img src="./assets/footer.svg" width="100%"/>
   
-  <br/><br/>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-wave.svg">
