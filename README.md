@@ -1,25 +1,3 @@
-<!-- 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║        ███████╗██╗  ██╗██╗██╗   ██╗███████╗                                  ║
-║        ██╔════╝██║  ██║██║██║   ██║██╔════╝                                  ║
-║        ███████╗███████║██║██║   ██║███████╗                                  ║
-║        ╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██║                                  ║
-║        ███████║██║  ██║██║ ╚████╔╝ ██║  ██║                                  ║
-║        ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝                                  ║
-║                                                                              ║
-║   ███████╗█████╗ ███╗   ██╗██╗ █████╗ ██╗   ██╗                              ║
-║   ██╔════╝██╔══██╗████╗  ██║██║██╔══██╗╚██╗ ██╔╝                             ║
-║   ███████╗███████║██╔██╗ ██║██║███████║ ╚████╔╝                              ║
-║   ╚════██║██╔══██║██║╚██╗██║██║██╔══██║  ╚██╔╝                               ║
-║   ███████║██║  ██║██║ ╚████║██║██║  ██║   ██║                                ║
-║   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝   ╚═╝                                ║
-║                                                                              ║
-║            🚀 AI & WEB DEVELOPER • TRAINER • SPORTSMAN 🚀                    ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
   
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -194,7 +172,6 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
 
 <img src="./assets/section-stats.svg" width="220"/>
 
-<br/><br/>
 
 <div align="center">
   
@@ -202,28 +179,19 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   <a href="https://github.com/SHIVASANJAY2007">
     <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
-  &nbsp;
+  
   <a href="https://github.com/SHIVASANJAY2007">
     <img height="195em" src="https://streak-stats.demolab.com/?user=SHIVASANJAY2007&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
   
-  <br/><br/>
+  
   
   <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
   <a href="https://github.com/SHIVASANJAY2007">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=normal&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
   </a>
   
-  <br/><br/>
   
-  <!-- Activity Graph -->
-  <a href="https://github.com/SHIVASANJAY2007">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHIVASANJAY2007&theme=tokyonight&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
-  </a>
-  
-  <br/><br/>
-  
-  <!-- Additional Stats Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHIVASANJAY2007&theme=tokyonight" width="95%" alt="Profile Details"/>
   
 </div>
@@ -232,24 +200,9 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <img src="./assets/section-game.svg" width="280"/>
 
-<br/><br/>
-
 <div align="center">
-  
-  <!-- Breakout Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/breakout-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/breakout-contribution-graph.svg">
-    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/output/breakout-contribution-graph.svg" width="100%">
-  </picture>
   
   <br/><br/>
   
@@ -265,9 +218,6 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   <!-- Isometric Contribution Graph (Dark Theme) -->
   <img alt="Isometric Contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
   
-  <br/>
-  
-  <sub>🧱 Watch Breakout & Pac-Man devour my contributions, and check out my Isometric Contributions!</sub>
   
 </div>
 
@@ -276,10 +226,6 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
 <img src="./assets/divider.svg" width="100%"/>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ⚡ TECH STACK                                                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <img src="./assets/section-tech.svg" width="180"/>
 
@@ -340,10 +286,6 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
 <img src="./assets/divider.svg" width="100%"/>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 FEATURED PROJECTS                                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   
@@ -441,10 +383,6 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 💡 RANDOM DEV QUOTE                                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   
 ### 💭Random Dev Quote
@@ -459,10 +397,6 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌟 FOOTER                                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   
   <img src="./assets/footer.svg" width="100%"/>
@@ -472,7 +406,3 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer"/>
   
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📝 END OF README                                                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
