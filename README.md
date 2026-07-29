@@ -1,14 +1,7 @@
 <div align="center">
   <img src="Main%20Banner.gif" width="100%" alt="Main Banner" />
   
-  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-  <!-- 🎯 ANIMATED HEADER                                                          -->
-  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/custom-typing-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/custom-typing.svg">
-    <img alt="Typing Animation" width="750" src="./assets/custom-typing.svg">
-  </picture>
+  <img alt="Typing Animation" width="750" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF0000&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%A1;Architecting+full-stack+%2B+ERP+systems+%F0%9F%92%BB;Kho-Kho+player+%26+team+captain+%F0%9F%8F%86" />
 
   
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
