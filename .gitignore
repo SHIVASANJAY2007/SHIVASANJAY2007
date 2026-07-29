@@ -9,15 +9,6 @@
 !profile-3d-contrib/
 !profile-3d-contrib/**
 
-!*.svg
-!.github/
-!.github/**
-!scripts/
-!scripts/**
-!data/
-!data/**
-!source-photo.jpg
-
 *.psd
 *.fig
 *.ai

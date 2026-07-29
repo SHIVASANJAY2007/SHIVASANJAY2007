@@ -4,9 +4,13 @@
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:0f2027&height=230&section=header&text=Shiva%20Sanjay%20N%20D&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Web%20Developer%20•%20Trainer%20•%20Sportsman&descAlignY=53&descSize=17&animation=fadeIn" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-wave.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-wave.svg">
+    <img alt="Header Wave" width="100%" src="./assets/header-wave.svg">
+  </picture>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2A5298&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%A1;Architecting+full-stack+%2B+ERP+systems+%F0%9F%92%BB;Kho-Kho+player+%26+team+captain+%F0%9F%8F%86" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FFFF00&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%A1;Architecting+full-stack+%2B+ERP+systems+%F0%9F%92%BB;Kho-Kho+player+%26+team+captain+%F0%9F%8F%86" />
 
   <br/><br/>
   
@@ -15,19 +19,19 @@
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
   <a href="https://github.com/SHIVASANJAY2007">
-    <img src="https://komarev.com/ghpvc/?username=SHIVASANJAY2007&label=Profile%20Views&color=2a5298&style=flat-square&base=1700" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=SHIVASANJAY2007&label=Profile%20Views&color=FFFF00&style=flat-square&base=1700&labelColor=000000" alt="Profile Views"/>
   </a>
   &nbsp;
   <a href="https://github.com/SHIVASANJAY2007?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSHIVASANJAY2007&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=1e3c72&labelColor=1a1b26" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSHIVASANJAY2007&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=FFFF00&labelColor=000000" alt="Repositories"/>
   </a>
   &nbsp;
   <a href="https://github.com/SHIVASANJAY2007?tab=followers">
-    <img src="https://img.shields.io/github/followers/SHIVASANJAY2007?label=Followers&style=flat-square&color=2a5298&labelColor=1a1b26" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/SHIVASANJAY2007?label=Followers&style=flat-square&color=FFFF00&labelColor=000000" alt="Followers"/>
   </a>
   &nbsp;
   <a href="https://github.com/SHIVASANJAY2007">
-    <img src="https://img.shields.io/github/stars/SHIVASANJAY2007?label=Stars&style=flat-square&color=1e3c72&labelColor=1a1b26" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/SHIVASANJAY2007?label=Stars&style=flat-square&color=FFFF00&labelColor=000000" alt="Stars"/>
   </a>
   
 </div>
@@ -118,7 +122,7 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=SHIVASANJAY2007&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+    <img src="https://github-trophies.vercel.app/?username=SHIVASANJAY2007&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
   </a>
   
 </div>
@@ -177,22 +181,22 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   
   <!-- GitHub Stats + Custom Streak in ONE ROW -->
   <a href="https://github.com/SHIVASANJAY2007">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&bg_color=000000&title_color=FFFF00&text_color=ffffff&icon_color=FFFF00&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   
   <a href="https://github.com/SHIVASANJAY2007">
-    <img height="195em" src="https://streak-stats.demolab.com/?user=SHIVASANJAY2007&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <img height="195em" src="https://streak-stats.demolab.com/?user=SHIVASANJAY2007&background=000000&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
   </a>
   
   
   
   <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
   <a href="https://github.com/SHIVASANJAY2007">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=normal&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=normal&bg_color=000000&title_color=FFFF00&text_color=ffffff&icon_color=FFFF00&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
   </a>
   
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHIVASANJAY2007&theme=tokyonight" width="95%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHIVASANJAY2007&bg_color=000000&title_color=FFFF00&text_color=ffffff&icon_color=FFFF00" width="95%" alt="Profile Details"/>
   
 </div>
 
@@ -352,23 +356,23 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
 <div align="center">
   
 <a href="https://github.com/SHIVASANJAY2007" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-FFFF00?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/shiva-sanjay-610512320" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-FFFF00?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://shivasanjay.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b26" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-FFFF00?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://www.instagram.com/_.kho_kho._.shivuuu._/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b26" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-FFFF00?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=000000" alt="Instagram"/>
 </a>
 &nbsp;
 <a href="mailto:shivasanjay9255@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-FFFF00?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -390,7 +394,7 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
 <br/>
 
 <a href="https://github.com/SHIVASANJAY2007">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="60%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=000000&quote_color=FFFF00&author_color=ffffff" alt="Random Dev Quote" width="60%"/>
 </a>
 
 </div>
@@ -403,6 +407,10 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
   
   <br/><br/>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-wave.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-wave.svg">
+    <img alt="Footer Wave" width="100%" src="./assets/footer-wave.svg">
+  </picture>
   
 </div>
