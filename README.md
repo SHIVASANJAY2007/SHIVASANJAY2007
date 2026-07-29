@@ -10,7 +10,11 @@
     <img alt="Header Wave" width="100%" src="./assets/header-wave.svg">
   </picture>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FFFF00&background=000000&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%A1;Architecting+full-stack+%2B+ERP+systems+%F0%9F%92%BB;Kho-Kho+player+%26+team+captain+%F0%9F%8F%86" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/custom-typing.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/custom-typing.svg">
+    <img alt="Typing Animation" width="750" src="./assets/custom-typing.svg">
+  </picture>
 
   
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -161,7 +165,7 @@
   </a>
   
   <a href="https://github.com/SHIVASANJAY2007">
-    <img height="195em" src="https://github-readme-streak-stats-production.up.railway.app/?user=SHIVASANJAY2007&background=000000&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
+    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVASANJAY2007&background=000000&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
   </a>
   
   
@@ -170,9 +174,6 @@
   <a href="https://github.com/SHIVASANJAY2007">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=normal&bg_color=000000&title_color=FFFF00&text_color=ffffff&icon_color=FFFF00&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
   </a>
-  
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHIVASANJAY2007&bg_color=000000&title_color=FFFF00&text_color=ffffff&icon_color=FFFF00" width="95%" alt="Profile Details"/>
   
 </div>
 
