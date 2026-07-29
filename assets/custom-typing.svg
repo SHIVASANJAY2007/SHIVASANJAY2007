@@ -21,11 +21,17 @@
                     dur='3700ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h750 ; m0,25 h750 ; m0,25 h0' keyTimes='0;0.60540540540541;0.84864864864865;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#FFFF00' font-size='22'
+    <text font-family='"Fira Code", monospace' fill='#000000' font-size='22'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
-        <textPath xlink:href='#path0'><tspan fill="#000000">B</tspan><tspan fill="#FFFF00">u</tspan><tspan fill="#000000">i</tspan><tspan fill="#FFFF00">l</tspan><tspan fill="#000000">d</tspan><tspan fill="#FFFF00">i</tspan><tspan fill="#000000">n</tspan><tspan fill="#FFFF00">g</tspan> <tspan fill="#FFFF00">A</tspan><tspan fill="#000000">I</tspan><tspan fill="#FFFF00">-</tspan><tspan fill="#000000">p</tspan><tspan fill="#FFFF00">o</tspan><tspan fill="#000000">w</tspan><tspan fill="#FFFF00">e</tspan><tspan fill="#000000">r</tspan><tspan fill="#FFFF00">e</tspan><tspan fill="#000000">d</tspan> <tspan fill="#000000">p</tspan><tspan fill="#FFFF00">r</tspan><tspan fill="#000000">o</tspan><tspan fill="#FFFF00">d</tspan><tspan fill="#000000">u</tspan><tspan fill="#FFFF00">c</tspan><tspan fill="#000000">t</tspan><tspan fill="#FFFF00">s</tspan> <tspan fill="#FFFF00">🤖</tspan></textPath>
+        <textPath xlink:href='#path0'>B i d n   I p w r d p o u t   </textPath>
+    </text>
+<text font-family='"Fira Code", monospace' fill='#FFFF00' font-size='22'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path0'> u l i g A - o e e   r d c s 🤖</textPath>
     </text>
         <path id='path1'>
                             <!-- Single line -->
@@ -33,11 +39,17 @@
                     dur='3700ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h750 ; m0,25 h750 ; m0,25 h0' keyTimes='0;0.60540540540541;0.84864864864865;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#FFFF00' font-size='22'
+    <text font-family='"Fira Code", monospace' fill='#000000' font-size='22'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
-        <textPath xlink:href='#path1'><tspan fill="#000000">A</tspan><tspan fill="#FFFF00">u</tspan><tspan fill="#000000">t</tspan><tspan fill="#FFFF00">o</tspan><tspan fill="#000000">m</tspan><tspan fill="#FFFF00">a</tspan><tspan fill="#000000">t</tspan><tspan fill="#FFFF00">i</tspan><tspan fill="#000000">n</tspan><tspan fill="#FFFF00">g</tspan> <tspan fill="#FFFF00">w</tspan><tspan fill="#000000">o</tspan><tspan fill="#FFFF00">r</tspan><tspan fill="#000000">k</tspan><tspan fill="#FFFF00">f</tspan><tspan fill="#000000">l</tspan><tspan fill="#FFFF00">o</tspan><tspan fill="#000000">w</tspan><tspan fill="#FFFF00">s</tspan> <tspan fill="#FFFF00">w</tspan><tspan fill="#000000">i</tspan><tspan fill="#FFFF00">t</tspan><tspan fill="#000000">h</tspan> <tspan fill="#000000">n</tspan><tspan fill="#FFFF00">8</tspan><tspan fill="#000000">n</tspan> <tspan fill="#000000">⚡</tspan></textPath>
+        <textPath xlink:href='#path1'>A t m t n   o k l w   i h n n ⚡</textPath>
+    </text>
+<text font-family='"Fira Code", monospace' fill='#FFFF00' font-size='22'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path1'> u o a i g w r f o s w t   8   </textPath>
     </text>
         <path id='path2'>
                             <!-- Single line -->
@@ -45,11 +57,17 @@
                     dur='3700ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h750 ; m0,25 h750 ; m0,25 h0' keyTimes='0;0.60540540540541;0.84864864864865;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#FFFF00' font-size='22'
+    <text font-family='"Fira Code", monospace' fill='#000000' font-size='22'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
-        <textPath xlink:href='#path2'><tspan fill="#000000">A</tspan><tspan fill="#FFFF00">r</tspan><tspan fill="#000000">c</tspan><tspan fill="#FFFF00">h</tspan><tspan fill="#000000">i</tspan><tspan fill="#FFFF00">t</tspan><tspan fill="#000000">e</tspan><tspan fill="#FFFF00">c</tspan><tspan fill="#000000">t</tspan><tspan fill="#FFFF00">i</tspan><tspan fill="#000000">n</tspan><tspan fill="#FFFF00">g</tspan> <tspan fill="#FFFF00">f</tspan><tspan fill="#000000">u</tspan><tspan fill="#FFFF00">l</tspan><tspan fill="#000000">l</tspan><tspan fill="#FFFF00">-</tspan><tspan fill="#000000">s</tspan><tspan fill="#FFFF00">t</tspan><tspan fill="#000000">a</tspan><tspan fill="#FFFF00">c</tspan><tspan fill="#000000">k</tspan> <tspan fill="#000000">+</tspan> <tspan fill="#000000">E</tspan><tspan fill="#FFFF00">R</tspan><tspan fill="#000000">P</tspan> <tspan fill="#000000">s</tspan><tspan fill="#FFFF00">y</tspan><tspan fill="#000000">s</tspan><tspan fill="#FFFF00">t</tspan><tspan fill="#000000">e</tspan><tspan fill="#FFFF00">m</tspan><tspan fill="#000000">s</tspan> <tspan fill="#000000">💻</tspan></textPath>
+        <textPath xlink:href='#path2'>A c i e t n   u l s a k + E P s s e s 💻</textPath>
+    </text>
+<text font-family='"Fira Code", monospace' fill='#FFFF00' font-size='22'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path2'> r h t c i g f l - t c     R   y t m   </textPath>
     </text>
         <path id='path3'>
                             <!-- Single line -->
@@ -57,10 +75,16 @@
                     dur='3700ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h750 ; m0,25 h750 ; m0,25 h0' keyTimes='0;0.60540540540541;0.84864864864865;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#FFFF00' font-size='22'
+    <text font-family='"Fira Code", monospace' fill='#000000' font-size='22'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
-        <textPath xlink:href='#path3'><tspan fill="#000000">K</tspan><tspan fill="#FFFF00">h</tspan><tspan fill="#000000">o</tspan><tspan fill="#FFFF00">-</tspan><tspan fill="#000000">K</tspan><tspan fill="#FFFF00">h</tspan><tspan fill="#000000">o</tspan> <tspan fill="#000000">p</tspan><tspan fill="#FFFF00">l</tspan><tspan fill="#000000">a</tspan><tspan fill="#FFFF00">y</tspan><tspan fill="#000000">e</tspan><tspan fill="#FFFF00">r</tspan> <tspan fill="#FFFF00">&</tspan><tspan fill="#000000">a</tspan><tspan fill="#FFFF00">m</tspan><tspan fill="#000000">p</tspan><tspan fill="#FFFF00">;</tspan> <tspan fill="#FFFF00">t</tspan><tspan fill="#000000">e</tspan><tspan fill="#FFFF00">a</tspan><tspan fill="#000000">m</tspan> <tspan fill="#000000">c</tspan><tspan fill="#FFFF00">a</tspan><tspan fill="#000000">p</tspan><tspan fill="#FFFF00">t</tspan><tspan fill="#000000">a</tspan><tspan fill="#FFFF00">i</tspan><tspan fill="#000000">n</tspan> <tspan fill="#000000">🏆</tspan></textPath>
+        <textPath xlink:href='#path3'>K o K o p a e   a p   e m c p a n 🏆</textPath>
+    </text>
+<text font-family='"Fira Code", monospace' fill='#FFFF00' font-size='22'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path3'> h - h   l y r & m ; t a   a t i   </textPath>
     </text>
 </svg>
