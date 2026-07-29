@@ -10,7 +10,7 @@
     <img alt="Header Wave" width="100%" src="./assets/header-wave.svg">
   </picture>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FFFF00&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%A1;Architecting+full-stack+%2B+ERP+systems+%F0%9F%92%BB;Kho-Kho+player+%26+team+captain+%F0%9F%8F%86" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FFFF00&background=000000&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%A1;Architecting+full-stack+%2B+ERP+systems+%F0%9F%92%BB;Kho-Kho+player+%26+team+captain+%F0%9F%8F%86" />
 
   <br/><br/>
   
