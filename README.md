@@ -4,15 +4,8 @@
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-  
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-wave.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-wave.svg">
-    <img alt="Header Wave" width="100%" src="./assets/header-wave.svg">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/custom-typing.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/custom-typing-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/custom-typing.svg">
     <img alt="Typing Animation" width="750" src="./assets/custom-typing.svg">
   </picture>
@@ -357,12 +350,6 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
   
   <img src="./assets/footer.svg" width="100%"/>
   
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-wave.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-wave.svg">
-    <img alt="Footer Wave" width="100%" src="./assets/footer-wave.svg">
-  </picture>
   
   <img src="Thank%20you%20Banner.gif" width="100%" alt="Thank You Banner" />
   
