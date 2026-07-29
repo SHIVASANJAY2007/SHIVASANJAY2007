@@ -26,7 +26,7 @@
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:0f2027&height=230&section=header&text=Shiva%20Sanjay%20N%20D&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=AI%20and%20Web%20Developer%20•%20Trainer%20•%20Sportsman&descAlignY=53&descSize=17&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:0f2027&height=230&section=header&text=Shiva%20Sanjay%20N%20D&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Web%20Developer%20•%20Trainer%20•%20Sportsman&descAlignY=53&descSize=17&animation=fadeIn" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2A5298&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%A1;Architecting+full-stack+%2B+ERP+systems+%F0%9F%92%BB;Kho-Kho+player+%26+team+captain+%F0%9F%8F%86" />
 
