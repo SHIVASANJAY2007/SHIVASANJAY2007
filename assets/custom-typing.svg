@@ -4,17 +4,6 @@
     viewBox='0 0 750 50'
     style='background-color: #00000000;'
     width='750px' height='50px'>
-    <defs>
-        <linearGradient id="zebra" x1="0%" y1="0%" x2="0%" y2="100%">
-            <stop offset="0%" stop-color="#FFFF00" />
-            <stop offset="30%" stop-color="#FFFF00" />
-            <stop offset="30%" stop-color="#000000" />
-            <stop offset="70%" stop-color="#000000" />
-            <stop offset="70%" stop-color="#FFFF00" />
-            <stop offset="100%" stop-color="#FFFF00" />
-        </linearGradient>
-    </defs>
-
 
     <style>
 @font-face {
@@ -26,60 +15,52 @@
 }
 </style>
 
-                <path stroke="#FFFF00" stroke-width="0.5" id='path0'>
+                <path id='path0'>
                             <!-- Single line -->
                                 <animate id='d0' attributeName='d' begin='0s;d3.end'
                     dur='3700ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h750 ; m0,25 h750 ; m0,25 h0' keyTimes='0;0.60540540540541;0.84864864864865;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='url(#zebra)' font-size='22'
+    <text font-family='"Fira Code", monospace' fill='#FFFF00' font-size='22'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
-        <textPath xlink:href='#path0'>
-            Building AI-powered products 🤖
-        </textPath>
+        <textPath xlink:href='#path0'><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">B</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">u</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">i</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">l</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">d</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">i</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">n</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">g</tspan> <tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">A</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">I</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">-</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">p</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">o</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">w</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">e</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">r</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">e</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">d</tspan> <tspan fill="#000000" stroke="#FFFF00" stroke-width="1">p</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">r</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">o</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">d</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">u</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">c</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">t</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">s</tspan> <tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">🤖</tspan></textPath>
     </text>
-        <path stroke="#FFFF00" stroke-width="0.5" id='path1'>
+        <path id='path1'>
                             <!-- Single line -->
                                 <animate id='d1' attributeName='d' begin='d0.end'
                     dur='3700ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h750 ; m0,25 h750 ; m0,25 h0' keyTimes='0;0.60540540540541;0.84864864864865;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='url(#zebra)' font-size='22'
+    <text font-family='"Fira Code", monospace' fill='#FFFF00' font-size='22'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
-        <textPath xlink:href='#path1'>
-            Automating workflows with n8n ⚡
-        </textPath>
+        <textPath xlink:href='#path1'><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">A</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">u</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">t</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">o</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">m</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">a</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">t</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">i</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">n</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">g</tspan> <tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">w</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">o</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">r</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">k</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">f</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">l</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">o</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">w</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">s</tspan> <tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">w</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">i</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">t</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">h</tspan> <tspan fill="#000000" stroke="#FFFF00" stroke-width="1">n</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">8</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">n</tspan> <tspan fill="#000000" stroke="#FFFF00" stroke-width="1">⚡</tspan></textPath>
     </text>
-        <path stroke="#FFFF00" stroke-width="0.5" id='path2'>
+        <path id='path2'>
                             <!-- Single line -->
                                 <animate id='d2' attributeName='d' begin='d1.end'
                     dur='3700ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h750 ; m0,25 h750 ; m0,25 h0' keyTimes='0;0.60540540540541;0.84864864864865;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='url(#zebra)' font-size='22'
+    <text font-family='"Fira Code", monospace' fill='#FFFF00' font-size='22'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
-        <textPath xlink:href='#path2'>
-            Architecting full-stack + ERP systems 💻
-        </textPath>
+        <textPath xlink:href='#path2'><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">A</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">r</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">c</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">h</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">i</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">t</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">e</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">c</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">t</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">i</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">n</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">g</tspan> <tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">f</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">u</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">l</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">l</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">-</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">s</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">t</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">a</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">c</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">k</tspan> <tspan fill="#000000" stroke="#FFFF00" stroke-width="1">+</tspan> <tspan fill="#000000" stroke="#FFFF00" stroke-width="1">E</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">R</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">P</tspan> <tspan fill="#000000" stroke="#FFFF00" stroke-width="1">s</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">y</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">s</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">t</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">e</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">m</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">s</tspan> <tspan fill="#000000" stroke="#FFFF00" stroke-width="1">💻</tspan></textPath>
     </text>
-        <path stroke="#FFFF00" stroke-width="0.5" id='path3'>
+        <path id='path3'>
                             <!-- Single line -->
                                 <animate id='d3' attributeName='d' begin='d2.end'
                     dur='3700ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h750 ; m0,25 h750 ; m0,25 h0' keyTimes='0;0.60540540540541;0.84864864864865;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='url(#zebra)' font-size='22'
+    <text font-family='"Fira Code", monospace' fill='#FFFF00' font-size='22'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
-        <textPath xlink:href='#path3'>
-            Kho-Kho player &amp; team captain 🏆
-        </textPath>
+        <textPath xlink:href='#path3'><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">K</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">h</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">o</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">-</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">K</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">h</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">o</tspan> <tspan fill="#000000" stroke="#FFFF00" stroke-width="1">p</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">l</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">a</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">y</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">e</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">r</tspan> <tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">&</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">a</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">m</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">p</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">;</tspan> <tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">t</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">e</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">a</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">m</tspan> <tspan fill="#000000" stroke="#FFFF00" stroke-width="1">c</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">a</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">p</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">t</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">a</tspan><tspan fill="#FFFF00" stroke="#FFFF00" stroke-width="1">i</tspan><tspan fill="#000000" stroke="#FFFF00" stroke-width="1">n</tspan> <tspan fill="#000000" stroke="#FFFF00" stroke-width="1">🏆</tspan></textPath>
     </text>
 </svg>
