@@ -122,7 +122,7 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=SHIVASANJAY2007&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+    <img src="https://github-trophies.vercel.app/?username=SHIVASANJAY2007&theme=aura&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
   </a>
   
 </div>
@@ -135,13 +135,13 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   <tr>
     <td align="center" width="50%">
       <br/>
-      <h1>🏆</h1>
+      <h1><img src="./Concept.png" width="50" /></h1>
       <h3>1st Prize — POC Fitlee</h3>
       <p><i>Awarded by Dept. HOD</i></p>
     </td>
     <td align="center" width="50%">
       <br/>
-      <h1>🚀</h1>
+      <h1><img src="./Hackathon.png" width="50" /></h1>
       <h3>Winner — Xackathon 2k25</h3>
       <p><i>Xenovex Technologies</i></p>
     </td>
@@ -149,7 +149,7 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   <tr>
     <td align="center" width="50%">
       <br/>
-      <h1>🎯</h1>
+      <h1><img src="./Campaign.png" width="50" /></h1>
       <h3>Back-to-Back Wins</h3>
       <p><i>Marketing Events</i></p>
     </td>
