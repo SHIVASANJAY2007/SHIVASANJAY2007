@@ -155,7 +155,7 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
     </td>
     <td align="center" width="50%">
       <br/>
-      <h1><img src="https://cdn-icons-gif.flaticon.com/18307/18307447.gif" width="50" /></h1>
+      <h1><img src="./speed.png" width="50" /></h1>
       <h3>State-Level Kho-Kho</h3>
       <p><i>Team Captain • Multiple Tournament Wins</i></p>
     </td>
@@ -185,7 +185,7 @@ life_philosophy: "Discipline on the field builds discipline in the codebase."
   </a>
   
   <a href="https://github.com/SHIVASANJAY2007">
-    <img height="195em" src="https://streak-stats.demolab.com/?user=SHIVASANJAY2007&background=000000&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
+    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVASANJAY2007&background=000000&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
   </a>
   
   
