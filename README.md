@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="Main%20Banner.gif" width="100%" alt="Main Banner" />
   
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   <!-- 🎯 ANIMATED HEADER                                                          -->
@@ -362,5 +363,7 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
     <source media="(prefers-color-scheme: light)" srcset="./assets/footer-wave.svg">
     <img alt="Footer Wave" width="100%" src="./assets/footer-wave.svg">
   </picture>
+  
+  <img src="Thank%20you%20Banner.gif" width="100%" alt="Thank You Banner" />
   
 </div>
