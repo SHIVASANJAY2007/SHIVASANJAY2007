@@ -5,7 +5,7 @@ Usage: python generate_streak_svg.py [username] [output.svg]
 """
 import sys, json, os, datetime, urllib.request
 
-USER = sys.argv[1] if len(sys.argv) > 1 else "AVIVASHISHTA29"
+USER = sys.argv[1] if len(sys.argv) > 1 else "SHIVASANJAY2007"
 OUT  = sys.argv[2] if len(sys.argv) > 2 else "streak.svg"
 
 def get_data(user):
@@ -27,9 +27,9 @@ total = data["total"]["lastYear"]
 
 # ---- layout ----
 CELL, GAP, RAD, LEFT, TOP = 13, 3, 2.5, 34, 24
-COLORS = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
-FLASH = "#b4ffaa"
-GRAY = "#7d8590"
+COLORS = ["#161616", "#4c090c", "#8c1115", "#cc181f", "#fe1e27"]
+FLASH = "#ffc8ca"
+GRAY = "#888888"
 MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
 
 n = len(contribs)
@@ -65,7 +65,7 @@ for i, c in enumerate(contribs):
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
 <style>
   text.lbl {{ fill:{GRAY}; font-size:13px; font-weight:600; }}
-  text.total {{ fill:#e6edf3; font-size:15px; font-weight:700; }}
+  text.total {{ fill:#ffffff; font-size:15px; font-weight:700; }}
   .c {{ transform-box:fill-box; transform-origin:center; opacity:0; animation:pop {DUR}s ease-out both; }}
   .g {{ animation:pop {DUR}s ease-out both, flash {DUR+0.15}s ease-out both; }}
   @keyframes pop {{ 0%{{opacity:0;transform:scale(.2)}} 60%{{opacity:1;transform:scale(1.1)}} 100%{{opacity:1;transform:scale(1)}} }}
