@@ -43,7 +43,7 @@
 <!-- 👤 ABOUT ME SECTION                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-about.svg" width="180"/>
+<img src="./assets/section-about.svg" width="250"/>
 
 
 ### 🎯 What I Do
@@ -89,7 +89,7 @@
 <!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-trophy.svg" width="200"/>
+<img src="./assets/section-trophy.svg" width="260"/>
 
 
 <div align="center">
@@ -141,7 +141,7 @@
 <!-- 📊 GITHUB ANALYTICS                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-stats.svg" width="220"/>
+<img src="./assets/section-stats.svg" width="280"/>
 
 
 <div align="center">
@@ -167,7 +167,7 @@
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<img src="./assets/section-game.svg" width="280"/>
+<img src="./assets/section-game.svg" width="320"/>
 
 <div align="center">
   
@@ -190,7 +190,7 @@
 <img src="./assets/divider.svg" width="100%"/>
 
 
-<img src="./assets/section-tech.svg" width="180"/>
+<img src="./assets/section-tech.svg" width="250"/>
 
 
 <div align="center">
@@ -293,7 +293,7 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
 <!-- 🌐 CONNECT WITH ME                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-connect.svg" width="160"/>
+<img src="./assets/section-connect.svg" width="240"/>
 
 
 <div align="center">
@@ -344,6 +344,6 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
   <img src="./assets/footer.svg" width="100%"/>
   
   
-  <img src="./assets/thank_you_banner.gif" width="100%" alt="Thank You Banner" />
+  <img src="./assets/thank_you.svg" width="100%" alt="Thank You Banner" />
   
 </div>

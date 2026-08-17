@@ -1,22 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="60" viewBox="0 0 400 60">
   <defs>
-    <linearGradient id="sectionGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FE1E27"/>
-      <stop offset="100%" style="stop-color:#ffffff"/>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@800&amp;family=Fira+Code:wght@600&amp;display=swap');
+      .hud-title {
+        font-family: 'Orbitron', 'Fira Code', monospace;
+        font-size: 17px;
+        font-weight: 800;
+        fill: #FFFFFF;
+        letter-spacing: 2px;
+      }
+      .hud-sub {
+        font-family: 'Fira Code', monospace;
+        font-size: 8px;
+        font-weight: 600;
+        fill: #FE1E27;
+        letter-spacing: 1px;
+        opacity: 0.85;
+      }
+      .hud-icon {
+        stroke: #FE1E27;
+        stroke-width: 2;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        fill: none;
+        filter: drop-shadow(0px 0px 3px rgba(254, 30, 39, 0.6));
+      }
+      .hud-brackets {
+        stroke: #444444;
+        stroke-width: 1.5;
+        fill: none;
+        opacity: 0.6;
+      }
+      .hud-line {
+        stroke: url(#lineGrad);
+        stroke-width: 2;
+        stroke-linecap: round;
+      }
+    </style>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FE1E27" />
+      <stop offset="60%" stop-color="#FE1E27" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#FE1E27" stop-opacity="0" />
     </linearGradient>
   </defs>
+
+  <!-- Left HUD Icon Bracket -->
+  <path d="M 6 10 L 2 10 L 2 40 L 6 40" class="hud-brackets" />
+  <path d="M 40 10 L 44 10 L 44 40 L 40 40" class="hud-brackets" />
   
-  <rect width="100%" height="100%" fill="transparent"/>
-  
-  <!-- Icon -->
-  <text x="5" y="28" font-size="20">👤</text>
+  <!-- Custom SVG Icon -->
+  <svg x="10" y="11" width="26" height="26" viewBox="0 0 24 24">
+    
+        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" class="hud-icon"/>
+        <circle cx="12" cy="7" r="4" class="hud-icon"/>
+        
+  </svg>
   
   <!-- Text -->
-  <text x="35" y="27" font-family="'Segoe UI', sans-serif" font-size="18" font-weight="600" fill="url(#sectionGrad)">
-    About Me
-  </text>
+  <text x="60" y="25" class="hud-title">ABOUT ME</text>
+  <text x="60" y="40" class="hud-sub">SYS.USER // EST_2007</text>
   
-  <!-- Underline -->
-  <rect x="35" y="32" width="85" height="2" fill="url(#sectionGrad)" rx="1"/>
+  <!-- Bottom Accent Line -->
+  <line x1="60" y1="46" x2="320" y2="46" class="hud-line" />
 </svg>
