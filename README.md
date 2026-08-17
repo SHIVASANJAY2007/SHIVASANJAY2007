@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Main%20Banner.gif" width="100%" alt="Main Banner" />
+  <img src="./assets/shiva_banner.gif" width="100%" alt="Main Banner" />
   
   <img alt="Typing Animation" width="750" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF0000&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%A1;Architecting+full-stack+%2B+ERP+systems+%F0%9F%92%BB;Kho-Kho+player+%26+team+captain+%F0%9F%8F%86" />
 
@@ -96,7 +96,7 @@
   
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=SHIVASANJAY2007&theme=aura&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+    <img src="https://github-trophies.vercel.app/?username=SHIVASANJAY2007&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
   </a>
   
 </div>
@@ -107,24 +107,24 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h1><img src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/main/concept.png" width="50" /></h1>
+      <h1><img src="./assets/concept.png" width="50" /></h1>
       <h3>1st Prize — POC Fitlee</h3>
       <p><i>Awarded by Dept. HOD</i></p>
     </td>
     <td align="center" width="50%">
-      <h1><img src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/main/hackathon.png" width="50" /></h1>
+      <h1><img src="./assets/hackathon.png" width="50" /></h1>
       <h3>Winner — Xackathon 2k25</h3>
       <p><i>Xenovex Technologies</i></p>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h1><img src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/main/campaign.png" width="50" /></h1>
+      <h1><img src="./assets/campaign.png" width="50" /></h1>
       <h3>Back-to-Back Wins</h3>
       <p><i>Marketing Events</i></p>
     </td>
     <td align="center" width="50%">
-      <h1><img src="https://raw.githubusercontent.com/SHIVASANJAY2007/SHIVASANJAY2007/main/speed.png" width="50" /></h1>
+      <h1><img src="./assets/speed.png" width="50" /></h1>
       <h3>State-Level Kho-Kho</h3>
       <p><i>Team Captain • Multiple Tournament Wins</i></p>
     </td>
@@ -333,7 +333,7 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
 
 
 <a href="https://github.com/SHIVASANJAY2007">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=000000&quote_color=FFFF00&author_color=ffffff" alt="Random Dev Quote" width="60%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=000000&quoteColor=FFFF00&authorColor=ffffff&symbolColor=FFFF00" alt="Random Dev Quote" width="60%"/>
 </a>
 
 </div>
@@ -344,6 +344,6 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
   <img src="./assets/footer.svg" width="100%"/>
   
   
-  <img src="Thank%20you%20Banner.gif" width="100%" alt="Thank You Banner" />
+  <img src="./assets/thank_you_banner.gif" width="100%" alt="Thank You Banner" />
   
 </div>
