@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/shiva_banner.gif" width="100%" alt="Main Banner" />
   
-  <img alt="Typing Animation" width="750" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF0000&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%A1;Architecting+full-stack+%2B+ERP+systems+%F0%9F%92%BB;Kho-Kho+player+%26+team+captain+%F0%9F%8F%86" />
+  <img alt="Typing Animation" width="750" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FE1E27&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%A1;Architecting+full-stack+%2B+ERP+systems+%F0%9F%92%BB;Kho-Kho+player+%26+team+captain+%F0%9F%8F%86" />
 
   
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -9,19 +9,19 @@
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
   <a href="https://github.com/SHIVASANJAY2007">
-    <img src="https://komarev.com/ghpvc/?username=SHIVASANJAY2007&label=Profile%20Views&color=FFFF00&style=flat-square&base=1700&labelColor=000000" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=SHIVASANJAY2007&label=Profile%20Views&color=FE1E27&style=flat-square&base=1700&labelColor=050505" alt="Profile Views"/>
   </a>
   &nbsp;
   <a href="https://github.com/SHIVASANJAY2007?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSHIVASANJAY2007&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=FFFF00&labelColor=000000" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSHIVASANJAY2007&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=FE1E27&labelColor=050505" alt="Repositories"/>
   </a>
   &nbsp;
   <a href="https://github.com/SHIVASANJAY2007?tab=followers">
-    <img src="https://img.shields.io/github/followers/SHIVASANJAY2007?label=Followers&style=flat-square&color=FFFF00&labelColor=000000" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/SHIVASANJAY2007?label=Followers&style=flat-square&color=FE1E27&labelColor=050505" alt="Followers"/>
   </a>
   &nbsp;
   <a href="https://github.com/SHIVASANJAY2007">
-    <img src="https://img.shields.io/github/stars/SHIVASANJAY2007?label=Stars&style=flat-square&color=FFFF00&labelColor=000000" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/SHIVASANJAY2007?label=Stars&style=flat-square&color=FE1E27&labelColor=050505" alt="Stars"/>
   </a>
   
 </div>
@@ -96,7 +96,7 @@
   
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=SHIVASANJAY2007&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+    <img src="https://github-trophies.vercel.app/?username=SHIVASANJAY2007&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
   </a>
   
 </div>
@@ -148,18 +148,18 @@
   
   <!-- GitHub Stats + Custom Streak in ONE ROW -->
   <a href="https://github.com/SHIVASANJAY2007">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&bg_color=000000&title_color=FFFF00&text_color=ffffff&icon_color=FFFF00&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SHIVASANJAY2007&show_icons=true&bg_color=050505&title_color=FE1E27&text_color=ffffff&icon_color=FE1E27&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   
   <a href="https://github.com/SHIVASANJAY2007">
-    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVASANJAY2007&background=000000&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFF00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
+    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVASANJAY2007&background=050505&ring=FE1E27&fire=FE1E27&currStreakLabel=FE1E27&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
   </a>
   
   
   
   <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
   <a href="https://github.com/SHIVASANJAY2007">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=normal&bg_color=000000&title_color=FFFF00&text_color=ffffff&icon_color=FFFF00&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SHIVASANJAY2007&layout=normal&bg_color=050505&title_color=FE1E27&text_color=ffffff&icon_color=FE1E27&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
   </a>
   
 </div>
@@ -299,23 +299,23 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
 <div align="center">
   
 <a href="https://github.com/SHIVASANJAY2007" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFF00" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FE1E27" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/shiva-sanjay-610512320" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFF00" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=FE1E27" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://shivasanjay.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFFF00" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=FE1E27" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://www.instagram.com/_.kho_kho._.shivuuu._/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFF00" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=FE1E27" alt="Instagram"/>
 </a>
 &nbsp;
 <a href="mailto:shivasanjay9255@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFF00" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=FE1E27" alt="Email"/>
 </a>
 
 
@@ -333,7 +333,7 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
 
 
 <a href="https://github.com/SHIVASANJAY2007">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=000000&quoteColor=FFFF00&authorColor=ffffff&symbolColor=FFFF00" alt="Random Dev Quote" width="60%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=050505&quoteColor=FE1E27&authorColor=ffffff&symbolColor=FE1E27" alt="Random Dev Quote" width="60%"/>
 </a>
 
 </div>
