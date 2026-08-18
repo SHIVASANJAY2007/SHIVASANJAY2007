@@ -46,66 +46,40 @@
 <img src="./assets/section-about.svg" width="300"/>
 
 
+### 🎯 What I Do
+
 <div align="center">
-  <table align="center" width="100%" border="4" cellspacing="0" cellpadding="15">
-    <tr bgcolor="#FE1E27">
-      <td colspan="3" align="center">
-        <b><font color="#FFFFFF" size="4">💻 SPECIALIZATIONS</font></b>
-      </td>
-    </tr>
+  <table align="center" width="100%">
     <tr>
-      <td width="33%" align="center" bgcolor="#FFFFFF">
+      <td width="33%" align="center">
         <h2>🌐</h2>
-        <b><font color="#000000">AI &amp; Web Development</font></b>
+        <b>AI & Web Development</b>
       </td>
-      <td width="33%" align="center" bgcolor="#FFFFFF">
+      <td width="33%" align="center">
         <h2>⚙️</h2>
-        <b><font color="#000000">Workflow Automation (n8n)</font></b>
+        <b>Workflow Automation (n8n)</b>
       </td>
-      <td width="33%" align="center" bgcolor="#FFFFFF">
+      <td width="33%" align="center">
         <h2>💼</h2>
-        <b><font color="#000000">CRM &amp; ERP Solutions</font></b>
+        <b>CRM & ERP Solutions</b>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
+> **🚀 Currently Building & Exploring:**
+> - 🤖 **INGRES:** AI-powered chatbot for intelligent groundwater data retrieval
+> - 🛡️ **FADE:** Instagram Fake Account Detection Engine utilizing Machine Learning
+> - 🌱 Deepening skills in **Salesforce** and **Cybersecurity** to build robust systems
 
-<table width="100%" border="4" cellspacing="0" cellpadding="15">
-  <tr bgcolor="#FE1E27">
-    <td colspan="2">
-      <b><font color="#FFFFFF" size="4">🚀 STATUS &amp; BACKGROUND</font></b>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" bgcolor="#FFFFFF">
-      <b><font color="#000000" size="3">🚀 Currently Building &amp; Exploring:</font></b>
-      <font color="#000000">
-        <ul>
-          <li>🤖 <b>INGRES:</b> AI-powered chatbot for groundwater data</li>
-          <li>🛡️ <b>FADE:</b> Instagram Fake Account Detection Engine</li>
-          <li>🌱 Skills in <b>Salesforce</b> and <b>Cybersecurity</b></li>
-        </ul>
-      </font>
-    </td>
-    <td width="50%" valign="top" bgcolor="#FFFFFF">
-      <b><font color="#000000" size="3">💡 Quick Facts &amp; Leadership:</font></b>
-      <font color="#000000">
-        <ul>
-          <li>🏅 <b>Team Captain</b> (State-Level Kho-Kho Winner)</li>
-          <li>🏆 <b>Xackathon-2025 Winner</b> (Xenovex Technologies)</li>
-          <li>📚 B.Sc. Information Systems @ KEC (2024 - 2027)</li>
-        </ul>
-      </font>
-    </td>
-  </tr>
-  <tr bgcolor="#FFFFFF">
-    <td colspan="2" align="center">
-      <i><font color="#000000">"Discipline on the field builds discipline in the codebase."</font></i>
-    </td>
-  </tr>
-</table>
+> **💡 Quick Facts & Leadership:**
+> - 🏅 **Team Captain** (Multiple State-Level Kho-Kho wins) | 👔 **Association Joint Secretary** (KEC)
+> - 🏆 **Xackathon-2025 Winner** (Xenovex Technologies)
+> - 📚 Pursuing B.Sc. Information Systems at Kongu Engineering College (2024 - 2027)
+
+<div align="center">
+  <i>"Discipline on the field builds discipline in the codebase."</i>
+</div>
 
 
 <br/>
@@ -129,32 +103,32 @@
 
 
 <div align="center">
-<table align="center" border="4" cellspacing="0" cellpadding="15">
-  <tr bgcolor="#FE1E27">
-    <td align="center" width="50%">
-      <img src="./assets/concept.png" width="50" style="border: 2px solid #000000; background: white;" />
-      <h3><font color="#FFFFFF">1st Prize — POC Fitlee</font></h3>
-      <p><font color="#FFFFFF"><i>Awarded by Dept. HOD</i></font></p>
-    </td>
-    <td align="center" width="50%">
-      <img src="./assets/hackathon.png" width="50" style="border: 2px solid #000000; background: white;" />
-      <h3><font color="#FFFFFF">Winner — Xackathon 2k25</font></h3>
-      <p><font color="#FFFFFF"><i>Xenovex Technologies</i></font></p>
-    </td>
-  </tr>
+
+<table align="center">
   <tr>
-    <td align="center" width="50%" bgcolor="#FFFFFF">
-      <img src="./assets/campaign.png" width="50" style="border: 2px solid #000000;" />
-      <h3><b><font color="#000000">Back-to-Back Wins</font></b></h3>
-      <p><font color="#000000"><i>Marketing Events</i></font></p>
+    <td align="center" width="25%">
+      <h1><img src="./assets/concept.png" width="50" /></h1>
+      <h3>1st Prize — POC Fitlee</h3>
+      <p><i>Awarded by Dept. HOD</i></p>
     </td>
-    <td align="center" width="50%" bgcolor="#FFFFFF">
-      <img src="./assets/speed.png" width="50" style="border: 2px solid #000000;" />
-      <h3><b><font color="#000000">State-Level Kho-Kho</font></b></h3>
-      <p><font color="#000000"><i>Team Captain • Multiple Tournament Wins</i></font></p>
+    <td align="center" width="25%">
+      <h1><img src="./assets/hackathon.png" width="50" /></h1>
+      <h3>Winner — Xackathon 2k25</h3>
+      <p><i>Xenovex Technologies</i></p>
+    </td>
+    <td align="center" width="25%">
+      <h1><img src="./assets/campaign.png" width="50" /></h1>
+      <h3>Back-to-Back Wins</h3>
+      <p><i>Marketing Events</i></p>
+    </td>
+    <td align="center" width="25%">
+      <h1><img src="./assets/speed.png" width="50" /></h1>
+      <h3>State-Level Kho-Kho</h3>
+      <p><i>Team Captain • Multiple Tournament Wins</i></p>
     </td>
   </tr>
 </table>
+
 </div>
 
 
@@ -217,58 +191,54 @@
 <img src="./assets/section-tech.svg" width="300"/>
 
 
-<table width="100%" border="4" cellspacing="0" cellpadding="15">
-  <tr bgcolor="#FE1E27">
-    <td colspan="2" align="center">
-      <b><font color="#FFFFFF" size="4">🛠️ TECHNOLOGIES &amp; WORKSPACE</font></b>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" bgcolor="#FFFFFF">
-      <b><font color="#000000" size="3">💻 Languages:</font></b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
-      <br/><br/>
-      <b><font color="#000000" size="3">📝 Editors &amp; AI Workspace:</font></b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/Antigravity-5D3FD3?style=for-the-badge&logo=googlecloud&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=chatgpt&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/NotebookLLM-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-    </td>
-    <td width="50%" valign="top" bgcolor="#FFFFFF">
-      <b><font color="#000000" size="3">⚙️ Full Stack / MERN:</font></b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
-      <br/><br/>
-      <b><font color="#000000" size="3">🧩 Tools, CRM &amp; ERP:</font></b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="30"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<h3 align="center">💻 Languages Known</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="38"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" height="38"/>
+</p>
+
+<h3 align="center">📝 Code Editors & AI Workspace</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Antigravity-5D3FD3?style=for-the-badge&logo=googlecloud&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=chatgpt&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/NotebookLLM-4285F4?style=for-the-badge&logo=google&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" height="38"/>
+</p>
+
+<h3 align="center">⚙️ Full Stack / MERN Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="38"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="38"/>
+</p>
+
+<h3 align="center">🧩 Other Tools, CRM & ERP</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="38"/>
+</p>
+
+</div>
 
 
 <br/>
@@ -277,94 +247,37 @@
 <img src="./assets/section-projects.svg" width="300"/>
 
 
-<!-- INGRES -->
-<table width="100%" border="4" cellspacing="0" cellpadding="15">
-  <tr bgcolor="#FE1E27">
-    <td>
-      <b><font color="#FFFFFF" size="4">🤖 INGRES</font></b>
-      &nbsp;&nbsp;
-      <font color="#FFFFFF"><i>AI-powered chatbot for the INGRES platform</i></font>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFFFFF">
-      <font color="#000000">
-        Designed and developed an AI-powered chatbot for the INGRES platform, enabling intelligent groundwater data retrieval through natural language queries with multilingual support.
-        <br/><br/>
-        <img src="https://img.shields.io/badge/AI_Chatbot-74AA9C?style=flat-square&logo=openai&logoColor=white"/>
-      </font>
-    </td>
-  </tr>
-</table>
+<details open>
+<summary><b>🤖 INGRES</b> — AI-powered chatbot for the INGRES platform</summary>
+<blockquote>
+Designed and developed an AI-powered chatbot for the INGRES platform, enabling intelligent groundwater data retrieval through natural language queries with multilingual support.
+<img src="https://img.shields.io/badge/AI_Chatbot-74AA9C?style=flat-square&logo=openai&logoColor=white"/>
+</blockquote>
+</details>
 
-<br/>
+<details open>
+<summary><b>🛡️ FADE</b> — Instagram Fake Account Detection Engine</summary>
+<blockquote>
+Developed an Instagram Fake Account Detection Engine using machine learning to analyze profile authenticity, generate real-time risk scores, and identify suspicious accounts through an interactive 3D user interface.
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</blockquote>
+</details>
 
-<!-- FADE -->
-<table width="100%" border="4" cellspacing="0" cellpadding="15">
-  <tr bgcolor="#FE1E27">
-    <td>
-      <b><font color="#FFFFFF" size="4">🛡️ FADE</font></b>
-      &nbsp;&nbsp;
-      <font color="#FFFFFF"><i>Instagram Fake Account Detection Engine</i></font>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFFFFF">
-      <font color="#000000">
-        Developed an Instagram Fake Account Detection Engine using machine learning to analyze profile authenticity, generate real-time risk scores, and identify suspicious accounts through an interactive 3D user interface.
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> &nbsp;
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </font>
-    </td>
-  </tr>
-</table>
+<details>
+<summary><b>🏋️ Fitlee 🏆</b> — Gamified fitness platform (1st Prize, Proof of Concept 2025)</summary>
+<blockquote>
+Prize-winning fitness web application featuring an NFT-based reward system to gamify user engagement and milestone tracking. Integrated an AI chatbot for personalized fitness guidance with a focus on usability and innovation.
+<img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Chatbot-74AA9C?style=flat-square&logo=openai&logoColor=white"/>
+</blockquote>
+</details>
 
-<br/>
-
-<!-- Fitlee -->
-<table width="100%" border="4" cellspacing="0" cellpadding="15">
-  <tr bgcolor="#FE1E27">
-    <td>
-      <b><font color="#FFFFFF" size="4">🏋️ Fitlee 🏆</font></b>
-      &nbsp;&nbsp;
-      <font color="#FFFFFF"><i>Gamified fitness platform (1st Prize, Proof of Concept 2025)</i></font>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFFFFF">
-      <font color="#000000">
-        Prize-winning fitness web application featuring an NFT-based reward system to gamify user engagement and milestone tracking. Integrated an AI chatbot for personalized fitness guidance with a focus on usability and innovation.
-        <br/><br/>
-        <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/> &nbsp;
-        <img src="https://img.shields.io/badge/AI_Chatbot-74AA9C?style=flat-square&logo=openai&logoColor=white"/>
-      </font>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Zyvox AI -->
-<table width="100%" border="4" cellspacing="0" cellpadding="15">
-  <tr bgcolor="#FE1E27">
-    <td>
-      <b><font color="#FFFFFF" size="4">✈️ Zyvox AI 🏆</font></b>
-      &nbsp;&nbsp;
-      <font color="#FFFFFF"><i>Automated travel assistant (Xackathon-2025 Winner)</i></font>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFFFFF">
-      <font color="#000000">
-        Team-developed AI travel assistant built using n8n to automate personalized trip planning workflows. Deployed as a WhatsApp Business bot to provide users with real-time travel suggestions and itinerary generation.
-        <br/><br/>
-        <img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white"/> &nbsp;
-        <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-      </font>
-    </td>
-  </tr>
-</table>
+<details>
+<summary><b>✈️ Zyvox AI 🏆</b> — Automated travel assistant (Xackathon-2025 Winner, Xenovex Technologies)</summary>
+<blockquote>
+Team-developed AI travel assistant built using n8n to automate personalized trip planning workflows. Deployed as a WhatsApp Business bot to provide users with real-time travel suggestions and itinerary generation.
+<img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+</blockquote>
+</details>
 
 
 <br/>
