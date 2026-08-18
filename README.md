@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/shiva_banner.gif" width="100%" alt="Main Banner" />
+  <img src="./assets/shiva_banner.gif" width="850" max-width="100%" alt="Main Banner" />
   
   <img alt="Typing Animation" width="750" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FE1E27&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%A1;Architecting+full-stack+%2B+ERP+systems+%F0%9F%92%BB;Kho-Kho+player+%26+team+captain+%F0%9F%8F%86" />
 
@@ -36,14 +36,14 @@
 </div>
 
 
-<img src="./assets/divider.svg" width="100%"/>
+<br/>
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 👤 ABOUT ME SECTION                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-about.svg" width="250"/>
+<img src="./assets/section-about.svg" width="300"/>
 
 
 ### 🎯 What I Do
@@ -82,14 +82,14 @@
 </div>
 
 
-<img src="./assets/divider.svg" width="100%"/>
+<br/>
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-trophy.svg" width="260"/>
+<img src="./assets/section-trophy.svg" width="300"/>
 
 
 <div align="center">
@@ -134,14 +134,14 @@
 </div>
 
 
-<img src="./assets/divider.svg" width="100%"/>
+<br/>
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB ANALYTICS                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-stats.svg" width="280"/>
+<img src="./assets/section-stats.svg" width="300"/>
 
 
 <div align="center">
@@ -165,9 +165,9 @@
 </div>
 
 
-<img src="./assets/divider.svg" width="100%"/>
+<br/>
 
-<img src="./assets/section-game.svg" width="320"/>
+<img src="./assets/section-game.svg" width="300"/>
 
 <div align="center">
   
@@ -187,10 +187,10 @@
 </div>
 
 
-<img src="./assets/divider.svg" width="100%"/>
+<br/>
 
 
-<img src="./assets/section-tech.svg" width="250"/>
+<img src="./assets/section-tech.svg" width="300"/>
 
 
 <div align="center">
@@ -243,14 +243,10 @@
 </div>
 
 
-<img src="./assets/divider.svg" width="100%"/>
+<br/>
 
 
-<div align="center">
-  
-### 🚀 Featured Projects
-
-</div>
+<img src="./assets/section-projects.svg" width="300"/>
 
 
 <details open>
@@ -286,14 +282,14 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
 </details>
 
 
-<img src="./assets/divider.svg" width="100%"/>
+<br/>
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🌐 CONNECT WITH ME                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-connect.svg" width="240"/>
+<img src="./assets/section-connect.svg" width="300"/>
 
 
 <div align="center">
@@ -324,26 +320,23 @@ Team-developed AI travel assistant built using n8n to automate personalized trip
 </div>
 
 
-<img src="./assets/divider.svg" width="100%"/>
+<br/>
+
+
+<img src="./assets/section-quote.svg" width="300"/>
 
 
 <div align="center">
   
-### 💭Random Dev Quote
-
-
-<a href="https://github.com/SHIVASANJAY2007">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=050505&quoteColor=FE1E27&authorColor=ffffff&symbolColor=FE1E27" alt="Random Dev Quote" width="60%"/>
-</a>
-
+  <a href="https://github.com/SHIVASANJAY2007">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=050505&quoteColor=FE1E27&authorColor=ffffff&symbolColor=FE1E27" alt="Random Dev Quote" width="60%"/>
+  </a>
+  
 </div>
 
 
 <div align="center">
   
   <img src="./assets/footer.svg" width="100%"/>
-  
-  
-  <img src="./assets/thank_you.svg" width="100%" alt="Thank You Banner" />
   
 </div>

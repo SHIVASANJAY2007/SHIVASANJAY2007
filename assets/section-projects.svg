@@ -25,7 +25,6 @@
         stroke-linejoin: round;
         fill: none;
       }
-      .icon-dot { fill: #000000; }
 
       @media (prefers-color-scheme: dark) {
         .neo-box {
@@ -35,7 +34,6 @@
         .neo-divider { stroke: #F0F6FC; }
         .neo-text { fill: #F0F6FC; }
         .icon-path { stroke: #F0F6FC; }
-        .icon-dot { fill: #F0F6FC; }
       }
     </style>
   </defs>
@@ -51,12 +49,11 @@
 
   <!-- Centered Icon -->
   <g transform="translate(14, 13)">
-    <rect x="2" y="6" width="20" height="12" rx="3" class="icon-path"/>
-    <path d="M6 12h4M8 10v4" class="icon-path"/>
-    <circle cx="15" cy="12" r="1.5" class="icon-dot"/>
-    <circle cx="18" cy="12" r="1.5" class="icon-dot"/>
+    <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" class="icon-path"/>
+    <polyline points="3.27 6.96 12 12.01 20.73 6.96" class="icon-path"/>
+    <line x1="12" y1="22.08" x2="12" y2="12" class="icon-path"/>
   </g>
 
   <!-- Title Text -->
-  <text x="60" y="31" class="neo-text">CONTRIBUTION GRAPH</text>
+  <text x="60" y="31" class="neo-text">FEATURED PROJECTS</text>
 </svg>

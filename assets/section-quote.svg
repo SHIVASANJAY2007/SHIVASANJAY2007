@@ -25,7 +25,6 @@
         stroke-linejoin: round;
         fill: none;
       }
-      .icon-dot { fill: #000000; }
 
       @media (prefers-color-scheme: dark) {
         .neo-box {
@@ -35,7 +34,6 @@
         .neo-divider { stroke: #F0F6FC; }
         .neo-text { fill: #F0F6FC; }
         .icon-path { stroke: #F0F6FC; }
-        .icon-dot { fill: #F0F6FC; }
       }
     </style>
   </defs>
@@ -51,12 +49,9 @@
 
   <!-- Centered Icon -->
   <g transform="translate(14, 13)">
-    <rect x="2" y="6" width="20" height="12" rx="3" class="icon-path"/>
-    <path d="M6 12h4M8 10v4" class="icon-path"/>
-    <circle cx="15" cy="12" r="1.5" class="icon-dot"/>
-    <circle cx="18" cy="12" r="1.5" class="icon-dot"/>
+    <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" class="icon-path"/>
   </g>
 
   <!-- Title Text -->
-  <text x="60" y="31" class="neo-text">CONTRIBUTION GRAPH</text>
+  <text x="60" y="31" class="neo-text">RANDOM DEV QUOTE</text>
 </svg>

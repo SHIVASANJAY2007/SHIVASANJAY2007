@@ -1,67 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="60" viewBox="0 0 400 60">
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="60" viewBox="0 0 350 60">
   <defs>
     <style type="text/css">
-      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@800&amp;family=Fira+Code:wght@600&amp;display=swap');
-      .hud-title {
-        font-family: 'Orbitron', 'Fira Code', monospace;
-        font-size: 17px;
-        font-weight: 800;
+      .neo-shadow { fill: #FE1E27; }
+      .neo-box {
         fill: #FFFFFF;
-        letter-spacing: 2px;
+        stroke: #000000;
+        stroke-width: 3;
       }
-      .hud-sub {
-        font-family: 'Fira Code', monospace;
-        font-size: 8px;
-        font-weight: 600;
-        fill: #FE1E27;
-        letter-spacing: 1px;
-        opacity: 0.85;
+      .neo-divider {
+        stroke: #000000;
+        stroke-width: 3;
       }
-      .hud-icon {
-        stroke: #FE1E27;
-        stroke-width: 2;
+      .neo-text {
+        font-family: "Impact", "Arial Black", -apple-system, sans-serif;
+        font-size: 17px;
+        font-weight: 900;
+        fill: #000000;
+        letter-spacing: 1.5px;
+      }
+      .icon-path {
+        stroke: #000000;
+        stroke-width: 2.5;
         stroke-linecap: round;
         stroke-linejoin: round;
         fill: none;
-        filter: drop-shadow(0px 0px 3px rgba(254, 30, 39, 0.6));
       }
-      .hud-brackets {
-        stroke: #444444;
-        stroke-width: 1.5;
-        fill: none;
-        opacity: 0.6;
-      }
-      .hud-line {
-        stroke: url(#lineGrad);
-        stroke-width: 2;
-        stroke-linecap: round;
+
+      @media (prefers-color-scheme: dark) {
+        .neo-box {
+          fill: #0D1117;
+          stroke: #F0F6FC;
+        }
+        .neo-divider { stroke: #F0F6FC; }
+        .neo-text { fill: #F0F6FC; }
+        .icon-path { stroke: #F0F6FC; }
       }
     </style>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FE1E27" />
-      <stop offset="60%" stop-color="#FE1E27" stop-opacity="0.4" />
-      <stop offset="100%" stop-color="#FE1E27" stop-opacity="0" />
-    </linearGradient>
   </defs>
 
-  <!-- Left HUD Icon Bracket -->
-  <path d="M 6 10 L 2 10 L 2 40 L 6 40" class="hud-brackets" />
-  <path d="M 40 10 L 44 10 L 44 40 L 40 40" class="hud-brackets" />
-  
-  <!-- Custom SVG Icon -->
-  <svg x="10" y="11" width="26" height="26" viewBox="0 0 24 24">
-    
-        <polyline points="16 18 22 12 16 6" class="hud-icon"/>
-        <polyline points="8 6 2 12 8 18" class="hud-icon"/>
-        <line x1="14" y1="4" x2="10" y2="20" class="hud-icon"/>
-        
-  </svg>
-  
-  <!-- Text -->
-  <text x="60" y="25" class="hud-title">TECH STACK & TOOLS</text>
-  <text x="60" y="40" class="hud-sub">SYS.ENG // COMPONENT_DEPS</text>
-  
-  <!-- Bottom Accent Line -->
-  <line x1="60" y1="46" x2="320" y2="46" class="hud-line" />
+  <!-- Shadow Box -->
+  <rect x="8" y="8" width="310" height="42" class="neo-shadow" rx="3" />
+
+  <!-- Main Box -->
+  <rect x="4" y="4" width="310" height="42" class="neo-box" rx="3" />
+
+  <!-- Divider -->
+  <line x1="48" y1="4" x2="48" y2="46" class="neo-divider" />
+
+  <!-- Centered Icon -->
+  <g transform="translate(14, 13)">
+    <polyline points="16 18 22 12 16 6" class="icon-path"/>
+    <polyline points="8 6 2 12 8 18" class="icon-path"/>
+    <line x1="14" y1="4" x2="10" y2="20" class="icon-path"/>
+  </g>
+
+  <!-- Title Text -->
+  <text x="60" y="31" class="neo-text">TECH STACK &amp; TOOLS</text>
 </svg>
