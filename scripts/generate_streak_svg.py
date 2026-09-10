@@ -14,11 +14,21 @@ def get_data(user):
         with urllib.request.urlopen(url, timeout=25) as r:
             return json.loads(r.read().decode())
     except Exception as e:
-        # fallback to a local snapshot if the API is unreachable
-        here = os.path.join(os.path.dirname(os.path.abspath(__file__)), "contrib.json")
-        if os.path.exists(here):
-            print("API failed (%s); using local contrib.json" % e)
-            return json.load(open(here))
+        # fallback to local snapshots if the API is unreachable
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        data_path = os.path.join(script_dir, "..", "data", "contributions.json")
+        contrib_path = os.path.join(script_dir, "contrib.json")
+        
+        fallback_path = data_path if os.path.exists(data_path) else (contrib_path if os.path.exists(contrib_path) else None)
+        if fallback_path:
+            print("API failed (%s); using local snapshot %s" % (e, os.path.basename(fallback_path)))
+            raw = json.load(open(fallback_path))
+            if "days" in raw:
+                # format from fetch_contributions.py
+                days = raw["days"]
+                days_list = [{"date": d["date"], "count": d["count"], "level": 0 if d["count"]==0 else (1 if d["count"]<=5 else (2 if d["count"]<=15 else (3 if d["count"]<=30 else 4)))} for d in days]
+                return {"contributions": days_list, "total": {"lastYear": raw.get("total_contributions", sum(d["count"] for d in days))}}
+            return raw
         raise
 
 data = get_data(USER)

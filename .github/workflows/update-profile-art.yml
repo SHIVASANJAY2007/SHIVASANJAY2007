@@ -30,10 +30,12 @@ jobs:
         run: python scripts/fetch_contributions.py
 
       - name: Render animated contribution graph SVG
-        run: python scripts/generate_streak_svg.py SHIVASANJAY2007 assets/contrib-heatmap.svg
+        run: |
+          python scripts/render_heatmap_svg.py
+          python scripts/generate_streak_svg.py SHIVASANJAY2007 assets/streak.svg
 
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json assets/contrib-heatmap.svg"
+          file_pattern: "data/contributions.json assets/contrib-heatmap.svg assets/streak.svg"

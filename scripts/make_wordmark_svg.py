@@ -45,11 +45,11 @@ CELL_H = 15.5
 # and the pointed apex on the A gives the extrusion an edge to wrap around. a
 # very heavy face (Impact) collapses to blobs at this resolution -- the counters
 # get thinner than one grid cell.
-FONT_PATH = os.environ.get("WORDMARK_FONT", "/System/Library/Fonts/Futura.ttc")
+FONT_PATH_ENV = os.environ.get("WORDMARK_FONT")
 FONT_INDEX = int(os.environ.get("WORDMARK_FONT_INDEX", 2))   # face within a .ttc
 # three letters across the full width leaves ~30 grid columns each, which is what
 # lets the cells be big enough to read as characters rather than as dither.
-TEXT = os.environ.get("WORDMARK_TEXT", "AVI")
+TEXT = os.environ.get("WORDMARK_TEXT", "SHIVA")
 
 MASK_H = 300           # glyph raster height in mask px (drives voxel density)
 TRACKING = 0.14        # extra letter-spacing, in em. counter gaps must survive the
@@ -92,12 +92,35 @@ TITLEBAR_H = 28
 
 
 # ---------------------------------------------------------------- voxel shell
+def load_font(size):
+    candidates = [
+        FONT_PATH_ENV,
+        "C:/Windows/Fonts/arialbd.ttf",
+        "C:/Windows/Fonts/arial.ttf",
+        "C:/Windows/Fonts/seguiemj.ttf",
+        "C:/Windows/Fonts/impact.ttf",
+        "/System/Library/Fonts/Futura.ttc",
+        "/Library/Fonts/Arial.ttf",
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+        "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+    ]
+    for path in candidates:
+        if not path:
+            continue
+        try:
+            index = FONT_INDEX if "Futura" in path else 0
+            return ImageFont.truetype(path, size, index=index)
+        except Exception:
+            pass
+    return ImageFont.load_default()
+
 def build_shell():
     """Rasterize TEXT, then return (points Nx3, normals Nx3) for its surface."""
     probe = TEXT.replace("\n", "")
     font_size = MASK_H
+    font = load_font(font_size)
     for _ in range(40):                       # shrink until one line fits a sane raster
-        font = ImageFont.truetype(FONT_PATH, font_size, index=FONT_INDEX)
+        font = load_font(font_size)
         l, t, r, b = font.getbbox(probe)
         if b - t <= MASK_H:
             break
@@ -256,7 +279,7 @@ def emit(frames, mode, out, dur, reveal):
     for i, dot in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
         p.append(f'<circle cx="{PAD + i*15}" cy="{TITLEBAR_H/2}" r="4.5" fill="{dot}"/>')
     p.append(f'<text x="{canvas_w/2:.0f}" y="{TITLEBAR_H/2 + 4:.0f}" fill="{TITLE_TEXT}" '
-             f'font-size="11.5" text-anchor="middle">avi@github: ~$ ./wordmark.sh --3d</text>')
+             f'font-size="11.5" text-anchor="middle">shiva@github: ~$ ./wordmark.sh --3d</text>')
 
     def frame_g(rows, extra=""):
         out_rows = []
